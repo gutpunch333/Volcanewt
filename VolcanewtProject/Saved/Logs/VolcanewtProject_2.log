@@ -1938,3 +1938,1609 @@ Script call stack:
 [2023.10.06-20.28.53:764][827]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Widgets/BPW_MainMenu_Auto9
 [2023.10.06-20.28.53:765][827]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPW_MainMenu_Auto96F6CE6B24DAB36DA7196DF9614E97A54.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/UI/Widgets/BPW_MainMenu_Auto9.uasset'
 [2023.10.06-20.28.53:766][827]LogFileHelpers: Auto-saving content packages took 0.221
+[2023.10.06-20.36.44:089][847]BlueprintLog: New page: Compile BPW_MainMenu
+[2023.10.06-20.36.44:189][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.10.06-20.38.07:917][649]BlueprintLog: New page: Compile BPW_MainMenu
+[2023.10.06-20.38.07:986][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.10.06-20.41.11:870][232]BlueprintLog: New page: Compile BPW_MainMenu
+[2023.10.06-20.41.11:950][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.10.06-20.42.05:562][351]BlueprintLog: New page: Compile BPW_MainMenu
+[2023.10.06-20.42.05:636][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.10.06-20.42.26:202][537]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UGameplayStatics::PushSoundMixModifier' [Element not found.]
+[2023.10.06-20.43.10:383][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.10.06-20.43.10:386][728]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/PrototypeTest_Level' took 0.033
+[2023.10.06-20.43.10:387][728]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/BPW_MainMenu] ([2] browsable assets)...
+[2023.10.06-20.43.10:394][728]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/BPW_MainMenu.BPW_MainMenu]
+[2023.10.06-20.43.10:394][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/BPW_MainMenu]
+[2023.10.06-20.43.10:419][728]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Widgets/BPW_MainMenu_Auto0
+[2023.10.06-20.43.10:419][728]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPW_MainMenu_Auto051FDC1CE41FED76199F28DBAF4C682FA.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/UI/Widgets/BPW_MainMenu_Auto0.uasset'
+[2023.10.06-20.43.10:421][728]LogFileHelpers: Auto-saving content packages took 0.035
+[2023.10.06-20.44.40:117][540]BlueprintLog: New page: Compile BPW_MainMenu
+[2023.10.06-20.44.40:215][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.10.06-20.45.08:697][113]BlueprintLog: New page: Compile BPW_MainMenu
+[2023.10.06-20.45.08:769][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.10.06-20.46.35:306][638]LogDerivedDataCache: C:/Users/natec/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.064 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2174 files in 3155 folders with total size 65 MiB.
+[2023.10.06-20.53.11:400][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.10.06-20.53.11:403][771]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/PrototypeTest_Level' took 0.037
+[2023.10.06-20.53.11:403][771]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/BPW_MainMenu] ([2] browsable assets)...
+[2023.10.06-20.53.11:412][771]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/BPW_MainMenu.BPW_MainMenu]
+[2023.10.06-20.53.11:412][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/BPW_MainMenu]
+[2023.10.06-20.53.11:439][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Widgets/BPW_MainMenu_Auto1
+[2023.10.06-20.53.11:439][771]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPW_MainMenu_Auto1C76B37974300AFB4650E9CAB47222695.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/UI/Widgets/BPW_MainMenu_Auto1.uasset'
+[2023.10.06-20.53.11:440][771]LogFileHelpers: Auto-saving content packages took 0.037
+[2023.10.06-21.00.31:204][735]BlueprintLog: New page: Compile BPW_PauseMenu
+[2023.10.06-21.00.31:426][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.10.06-21.01.29:302][356]BlueprintLog: New page: Compile BPW_MainMenu
+[2023.10.06-21.01.29:382][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.10.06-21.01.53:929][557]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/SoundEffects/shootFree.shootFree
+[2023.10.06-21.02.42:561][410]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/SoundEffects/Menu_Selection_Click.Menu_Selection_Click
+[2023.10.06-21.02.52:804][  4]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/SoundEffects/spray.spray
+[2023.10.06-21.03.04:740][699]LogAssetEditorSubsystem: Opening Asset editor for SoundMix /Game/Audio/MixClasses/Mix_SFX.Mix_SFX
+[2023.10.06-21.05.45:345][618]BlueprintLog: New page: Compile BPW_MainMenu
+[2023.10.06-21.05.45:446][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.10.06-21.06.52:560][325]BlueprintLog: New page: Compile BPW_PauseMenu
+[2023.10.06-21.06.52:812][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.10.06-21.07.30:856][467]BlueprintLog: New page: Compile BPW_PauseMenu
+[2023.10.06-21.07.30:942][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.10.06-21.08.18:345][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.10.06-21.08.19:770][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/PrototypeTest_Level_Auto2
+[2023.10.06-21.08.19:771][829]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/PrototypeTest_Level_Auto2D69286B543E0208D7060D3AAE0334242.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/Levels/PrototypeTest_Level_Auto2.umap'
+[2023.10.06-21.08.19:789][829]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/PrototypeTest_Level' took 1.487
+[2023.10.06-21.08.19:789][829]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.487
+[2023.10.06-21.08.19:791][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/BP_Volcanewt] ([2] browsable assets)...
+[2023.10.06-21.08.19:802][829]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player/BP_Volcanewt.BP_Volcanewt]
+[2023.10.06-21.08.19:802][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/BP_Volcanewt]
+[2023.10.06-21.08.19:843][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Player/BP_Volcanewt_Auto2
+[2023.10.06-21.08.19:844][829]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BP_Volcanewt_Auto2F550AE0549AE45519763789F91D7ED75.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/Player/BP_Volcanewt_Auto2.uasset'
+[2023.10.06-21.08.19:846][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SoundEffects/spray] ([1] browsable assets)...
+[2023.10.06-21.08.19:849][829]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SoundEffects/spray.spray]
+[2023.10.06-21.08.19:849][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundEffects/spray]
+[2023.10.06-21.08.19:851][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/SoundEffects/spray_Auto2
+[2023.10.06-21.08.19:851][829]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/spray_Auto2A80A2B9D48DB4962C667E0B74FF9CC5C.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/Audio/SoundEffects/spray_Auto2.uasset'
+[2023.10.06-21.08.19:852][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SoundEffects/shootFree] ([1] browsable assets)...
+[2023.10.06-21.08.19:855][829]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SoundEffects/shootFree.shootFree]
+[2023.10.06-21.08.19:855][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundEffects/shootFree]
+[2023.10.06-21.08.19:857][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/SoundEffects/shootFree_Auto2
+[2023.10.06-21.08.19:857][829]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/shootFree_Auto225E9F3564CDC58D94D676B923D697D1C.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/Audio/SoundEffects/shootFree_Auto2.uasset'
+[2023.10.06-21.08.19:859][829]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/BPW_PauseMenu] ([2] browsable assets)...
+[2023.10.06-21.08.19:864][829]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/BPW_PauseMenu.BPW_PauseMenu]
+[2023.10.06-21.08.19:865][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/BPW_PauseMenu]
+[2023.10.06-21.08.19:896][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Widgets/BPW_PauseMenu_Auto2
+[2023.10.06-21.08.19:897][829]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPW_PauseMenu_Auto2E92B606D4C6B36C755D46A8A6E35BF5C.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/UI/Widgets/BPW_PauseMenu_Auto2.uasset'
+[2023.10.06-21.08.19:899][829]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/BPW_MainMenu] ([2] browsable assets)...
+[2023.10.06-21.08.19:903][829]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/BPW_MainMenu.BPW_MainMenu]
+[2023.10.06-21.08.19:903][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/BPW_MainMenu]
+[2023.10.06-21.08.19:938][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Widgets/BPW_MainMenu_Auto2
+[2023.10.06-21.08.19:938][829]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPW_MainMenu_Auto220EA455F4EC9987869915886DF3688BD.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/UI/Widgets/BPW_MainMenu_Auto2.uasset'
+[2023.10.06-21.08.19:939][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SoundEffects/Menu_Selection_Click] ([1] browsable assets)...
+[2023.10.06-21.08.19:942][829]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SoundEffects/Menu_Selection_Click.Menu_Selection_Click]
+[2023.10.06-21.08.19:942][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SoundEffects/Menu_Selection_Click]
+[2023.10.06-21.08.19:944][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/SoundEffects/Menu_Selection_Click_Auto2
+[2023.10.06-21.08.19:944][829]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Menu_Selection_Click_Auto2F6F542364354BCD19B57439B7D56F3FC.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/Audio/SoundEffects/Menu_Selection_Click_Auto2.uasset'
+[2023.10.06-21.08.19:945][829]LogFileHelpers: Auto-saving content packages took 0.155
+[2023.10.06-21.10.56:764][474]BlueprintLog: New page: Compile BPW_PauseMenu
+[2023.10.06-21.10.57:043][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.10.06-21.11.22:219][ 55]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.10.06-21.11.22:228][ 55]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.10.06-21.11.22:244][ 55]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.10.06-21.11.22:248][ 56]LogAutomationController: Ignoring very large delta of 10.98 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-21.11.22:266][ 56]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.10.06-21.11.28:478][305]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_EndLevel
+[2023.10.06-21.11.28:497][305]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.10.06-21.18.50:142][863]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetMathLibrary::Add_IntInt' [The specified module could not be found.]
+[2023.10.06-21.20.15:272][383]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.06-21.24.01:516][263]BlueprintLog: New page: Compile BPGM_Volcanewt
+[2023.10.06-21.24.01:543][263]LogBlueprint: Warning: [AssetLog] C:\Users\natec\OneDrive\Desktop\School\TheCleaner\FleckProject\Volcanewt\VolcanewtProject\Content\Blueprints\BPGM_Volcanewt.uasset: [Compiler] Could not find a variable named "City Destroyed" in 'BPGM_Volcanewt_C'.
+Make sure 'BPGM_Volcanewt_C' has been compiled for  Set City Destroyed
+[2023.10.06-21.24.01:543][263]LogBlueprint: Warning: [AssetLog] C:\Users\natec\OneDrive\Desktop\School\TheCleaner\FleckProject\Volcanewt\VolcanewtProject\Content\Blueprints\BPGM_Volcanewt.uasset: [Compiler] Could not find a variable named "City Destroyed" in 'BPGM_Volcanewt_C'.
+Make sure 'BPGM_Volcanewt_C' has been compiled for  Get City Destroyed
+[2023.10.06-21.24.01:548][263]LogBlueprint: Error: [AssetLog] C:\Users\natec\OneDrive\Desktop\School\TheCleaner\FleckProject\Volcanewt\VolcanewtProject\Content\Blueprints\BPGM_Volcanewt.uasset: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2023.10.06-21.24.01:551][263]LogBlueprint: Error: [AssetLog] C:\Users\natec\OneDrive\Desktop\School\TheCleaner\FleckProject\Volcanewt\VolcanewtProject\Content\Blueprints\BPGM_Volcanewt.uasset: [Compiler] The property associated with  City Destroyed  could not be found in '/Game/Blueprints/BPGM_Volcanewt.BPGM_Volcanewt_C'
+[2023.10.06-21.24.01:551][263]LogBlueprint: Error: [AssetLog] C:\Users\natec\OneDrive\Desktop\School\TheCleaner\FleckProject\Volcanewt\VolcanewtProject\Content\Blueprints\BPGM_Volcanewt.uasset: [Compiler] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.10.06-21.24.01:551][263]LogBlueprint: Error: [AssetLog] C:\Users\natec\OneDrive\Desktop\School\TheCleaner\FleckProject\Volcanewt\VolcanewtProject\Content\Blueprints\BPGM_Volcanewt.uasset: [Compiler] The property associated with  City Destroyed  could not be found in '/Game/Blueprints/BPGM_Volcanewt.BPGM_Volcanewt_C'
+[2023.10.06-21.24.01:831][263]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.10.06-21.25.22:973][590]BlueprintLog: New page: Compile BPGM_Volcanewt
+[2023.10.06-21.25.23:265][590]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.10.06-21.25.51:411][123]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-21.25.52:048][123]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-21.25.53:389][123]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-21.25.55:059][123]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-21.25.56:432][124]LogAutomationController: Ignoring very large delta of 5.53 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-21.25.58:429][222]BlueprintLog: New page: Compile BPGM_Volcanewt
+[2023.10.06-21.25.58:746][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.10.06-21.26.03:456][223]LogAutomationController: Ignoring very large delta of 5.03 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-21.26.06:161][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.06-21.26.06:311][353]LogSavePackage: Moving output files for package: /Game/Blueprints/BPGM_Volcanewt
+[2023.10.06-21.26.06:312][353]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPGM_Volcanewt0DD90DF34882001E6CE56FBAEDEF5CD7.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/Blueprints/BPGM_Volcanewt.uasset'
+[2023.10.06-21.26.06:328][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 279 ms)
+[2023.10.06-21.26.06:362][353]AssetCheck: New page: Asset Save: BPGM_Volcanewt
+[2023.10.06-21.26.06:362][353]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPGM_Volcanewt.BPGM_Volcanewt
+[2023.10.06-21.26.10:630][534]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2023.10.06-21.26.10:667][534]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.06-21.26.12:096][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.10.06-21.26.13:626][534]LogSavePackage: Moving output files for package: /Game/Levels/PrototypeTest_Level
+[2023.10.06-21.26.13:627][534]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/PrototypeTest_LevelFF73E5064C3314E06449C49687D4F5BB.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/Levels/PrototypeTest_Level.umap'
+[2023.10.06-21.26.13:660][534]LogFileHelpers: Saving map 'PrototypeTest_Level' took 1.608
+[2023.10.06-21.26.25:048][534]LogSlate: Window 'Message' being destroyed
+[2023.10.06-21.26.25:053][534]Message dialog closed, result: Yes, title: Message, text: Untitled already exists. Do you want to replace it?
+[2023.10.06-21.26.25:053][534]LogSlate: Window 'Save Level As' being destroyed
+[2023.10.06-21.26.25:110][534]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-21.26.25:117][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-21.26.25:556][534]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2023.10.06-21.26.25:613][534]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.10.06-21.26.26:158][534]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-21.26.26:248][534]LogObjectTools: Deleting 1 worlds: /Game/Levels/Untitled.Untitled
+[2023.10.06-21.26.26:248][534]LogObjectTools: Currently 16 active worlds: /Game/Levels/PrototypeTest_Level.PrototypeTest_Level, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14
+[2023.10.06-21.26.26:299][534]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.10.06-21.26.26:489][534]LogUObjectGlobals: Warning: Could not delete
+[2023.10.06-21.26.26:489][534]LogObjectTools: Warning: Existing objects could not be deleted, unable to duplicate World /Temp/Autosaves/Game/Levels/PrototypeTest_Level_Auto8.PrototypeTest_Level_Auto8
+[2023.10.06-21.26.29:006][534]LogSlate: Window 'Message' being destroyed
+[2023.10.06-21.26.29:010][534]Message dialog closed, result: Ok, title: Message, text: Unable to overwrite existing package /Game/Levels/Untitled.
+[2023.10.06-21.26.29:012][534]LogFileHelpers: Saving map 'Untitled' took 3.396
+[2023.10.06-21.26.31:033][534]LogSlate: Window 'Message' being destroyed
+[2023.10.06-21.26.31:037][534]Message dialog closed, result: Retry, title: Message, text: The asset '/Temp/Autosaves/Game/Levels/PrototypeTest_Level_Auto8' (../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/Levels/Untitled.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2023.10.06-21.26.32:431][534]LogSlate: Window 'Message' being destroyed
+[2023.10.06-21.26.32:435][534]Message dialog closed, result: Ok, title: Message, text: A level with that name already exists. Please choose another name.
+[2023.10.06-21.26.32:435][534]LogFileHelpers: Saving map 'Untitled' took 1.398
+[2023.10.06-21.26.35:304][534]LogSlate: Window 'Message' being destroyed
+[2023.10.06-21.26.35:308][534]Message dialog closed, result: Cancel, title: Message, text: The asset '/Temp/Autosaves/Game/Levels/PrototypeTest_Level_Auto8' (../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/Levels/Untitled.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2023.10.06-21.26.35:319][534]LogFileHelpers: InternalPromptForCheckoutAndSave took 24.6 sec (total: 24.9 sec)
+[2023.10.06-21.26.35:342][534]AssetCheck: New page: Asset Save: PrototypeTest_Level
+[2023.10.06-21.26.35:342][534]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/PrototypeTest_Level.PrototypeTest_Level
+[2023.10.06-21.26.35:382][535]LogAutomationController: Ignoring very large delta of 24.89 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-21.26.38:658][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.10.06-21.26.38:670][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.06-21.26.40:183][651]LogSlate: Window 'Save Level As' being destroyed
+[2023.10.06-21.26.40:226][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.55 sec (total: 26.4 sec)
+[2023.10.06-21.28.50:554][915]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.10.06-21.28.50:580][915]LogContentBrowser: Creating deferred item: NewWorld
+[2023.10.06-21.28.50:609][916]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.10.06-21.28.57:968][226]LogContentBrowser: Attempting asset rename: NewWorld -> TestIgnore
+[2023.10.06-21.28.57:969][226]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-21.28.57:969][226]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-21.28.57:976][226]LogContentBrowser: End creating deferred item NewWorld
+[2023.10.06-21.28.59:326][280]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2023.10.06-21.28.59:385][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.10.06-21.29.09:472][280]LogSlate: Window 'Save Content' being destroyed
+[2023.10.06-21.29.09:483][280]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.06-21.29.09:616][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.10.06-21.29.09:620][280]LogSavePackage: Moving output files for package: /Game/Levels/TestIgnore
+[2023.10.06-21.29.09:620][280]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/TestIgnore63886CA844AA2DA158200E8329274A22.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/Levels/TestIgnore.umap'
+[2023.10.06-21.29.09:628][280]LogFileHelpers: Saving map 'TestIgnore' took 0.051
+[2023.10.06-21.29.09:632][280]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EndLevel
+[2023.10.06-21.29.09:632][280]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BP_EndLevel90A5B0424D9B47EDDDBF3DA38937A236.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/Blueprints/BP_EndLevel.uasset'
+[2023.10.06-21.29.09:664][280]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_LargeBuilding
+[2023.10.06-21.29.09:665][280]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BP_LargeBuilding048DE79543D9852FDC3886B87C871D2A.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/Blueprints/BP_LargeBuilding.uasset'
+[2023.10.06-21.29.09:728][280]LogSavePackage: Moving output files for package: /Game/Player/BP_Volcanewt
+[2023.10.06-21.29.09:729][280]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BP_VolcanewtFAE6F3714BD9361B941D7FB1F8E1B629.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/Player/BP_Volcanewt.uasset'
+[2023.10.06-21.29.09:770][280]LogSavePackage: Moving output files for package: /Game/UI/Widgets/BPW_MainMenu
+[2023.10.06-21.29.09:771][280]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPW_MainMenu8399C1174E085872F82E3DB3E2D481CC.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/UI/Widgets/BPW_MainMenu.uasset'
+[2023.10.06-21.29.09:815][280]LogSavePackage: Moving output files for package: /Game/UI/Widgets/BPW_PauseMenu
+[2023.10.06-21.29.09:815][280]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPW_PauseMenu481C9C3740DADE1E40A00BA650F1AC48.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/UI/Widgets/BPW_PauseMenu.uasset'
+[2023.10.06-21.29.09:823][280]LogSavePackage: Moving output files for package: /Game/Player/IMC_ThirdPerson
+[2023.10.06-21.29.09:824][280]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/IMC_ThirdPerson5BC0FBE845D7265A00761C87F11F8DD6.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/Player/IMC_ThirdPerson.uasset'
+[2023.10.06-21.29.09:828][280]LogSavePackage: Moving output files for package: /Game/Audio/SoundEffects/Menu_Selection_Click
+[2023.10.06-21.29.09:829][280]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Menu_Selection_ClickE89F50D34FCD8990E9851183BA8B69B6.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/Audio/SoundEffects/Menu_Selection_Click.uasset'
+[2023.10.06-21.29.09:856][280]LogSavePackage: Moving output files for package: /Game/ProceduralGen/ProceduralDistrictTest
+[2023.10.06-21.29.09:857][280]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/ProceduralDistrictTest8BA83C214D28E520B210D3A8EFD6654C.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/ProceduralGen/ProceduralDistrictTest.uasset'
+[2023.10.06-21.29.09:863][280]LogSavePackage: Moving output files for package: /Game/Audio/SoundEffects/shootFree
+[2023.10.06-21.29.09:864][280]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/shootFree759EB4884594E47C9C334C8C6131901A.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/Audio/SoundEffects/shootFree.uasset'
+[2023.10.06-21.29.09:869][280]LogSavePackage: Moving output files for package: /Game/Audio/SoundEffects/spray
+[2023.10.06-21.29.09:870][280]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/spray27D1F3C64CB749C4A2A72A89FD99C593.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/Audio/SoundEffects/spray.uasset'
+[2023.10.06-21.29.09:885][280]LogFileHelpers: InternalPromptForCheckoutAndSave took 401 ms (total: 26.8 sec)
+[2023.10.06-21.29.09:885][280]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TestIgnore.TestIgnore
+[2023.10.06-21.29.09:885][280]Cmd: MAP LOAD FILE="../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/Levels/TestIgnore.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.10.06-21.29.09:885][280]LightingResults: New page: Lighting Build
+[2023.10.06-21.29.10:028][280]LoadErrors: New page: Loading map: TestIgnore.umap
+[2023.10.06-21.29.10:125][280]LogWorld: UWorld::CleanupWorld for PrototypeTest_Level, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-21.29.10:126][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-21.29.10:131][280]MapCheck: New page: Map Check
+[2023.10.06-21.29.10:132][280]LightingResults: New page: Lighting Build
+[2023.10.06-21.29.10:180][280]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.06-21.29.10:313][280]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2023.10.06-21.29.10:332][280]LogWorld: UWorld::CleanupWorld for TestIgnore, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-21.29.10:333][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-21.29.10:335][280]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-21.29.10:344][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-21.29.10:712][280]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2023.10.06-21.29.10:757][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.10.06-21.29.12:124][280]LogSlate: Window 'Message' being destroyed
+[2023.10.06-21.29.12:142][280]Message dialog closed, result: Ok, title: Message, text: The following assets have been modified and cannot be unloaded:
+    /Temp/Autosaves/Game/Levels/PrototypeTest_Level_Auto2
+    /Temp/Autosaves/Game/Levels/PrototypeTest_Level_Auto8
+    /Temp/Autosaves/Game/Levels/PrototypeTest_Level_Auto9
+Saving these assets will allow them to be unloaded.
+[2023.10.06-21.29.12:144][280]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestIgnore'.
+[2023.10.06-21.29.12:144][280]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-21.29.12:144][280]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-21.29.12:145][280]LogAIModule: Creating AISystem for world TestIgnore
+[2023.10.06-21.29.12:189][280]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.06-21.29.12:223][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.10.06-21.29.12:230][280]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.06-21.29.12:230][280]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.132ms to complete.
+[2023.10.06-21.29.12:230][280]LogFileHelpers: Loading map 'TestIgnore' took 2.345
+[2023.10.06-21.29.12:242][280]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.06-21.29.12:242][280]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Player/IMC_ThirdPerson.IMC_ThirdPerson
+[2023.10.06-21.29.12:242][280]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SoundEffects/spray.spray
+[2023.10.06-21.29.12:242][280]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Player/BP_Volcanewt.BP_Volcanewt
+[2023.10.06-21.29.12:243][280]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SoundEffects/shootFree.shootFree
+[2023.10.06-21.29.12:243][280]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_LargeBuilding.BP_LargeBuilding
+[2023.10.06-21.29.12:243][280]LogContentValidation: Display: Validating /Script/PCG.PCGGraph /Game/ProceduralGen/ProceduralDistrictTest.ProceduralDistrictTest
+[2023.10.06-21.29.12:243][280]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Widgets/BPW_PauseMenu.BPW_PauseMenu
+[2023.10.06-21.29.12:244][280]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Widgets/BPW_MainMenu.BPW_MainMenu
+[2023.10.06-21.29.12:246][280]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SoundEffects/Menu_Selection_Click.Menu_Selection_Click
+[2023.10.06-21.29.12:246][280]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/TestIgnore.TestIgnore
+[2023.10.06-21.29.12:246][280]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_EndLevel.BP_EndLevel
+[2023.10.06-21.29.12:264][281]LogAutomationController: Ignoring very large delta of 13.00 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-21.29.14:808][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.10.06-21.29.14:817][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.06-21.29.18:028][417]LogSlate: Window 'Save Level As' being destroyed
+[2023.10.06-21.29.18:069][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.25 sec (total: 30.1 sec)
+[2023.10.06-21.29.18:077][418]LogAutomationController: Ignoring very large delta of 3.32 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-21.29.20:436][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.10.06-21.29.20:478][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.10.06-21.29.25:160][553]LogSlate: Window 'Save Content' being destroyed
+[2023.10.06-21.29.25:705][553]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-21.29.26:229][553]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/PrototypeTest_Level.PrototypeTest_Level
+[2023.10.06-21.29.26:230][553]LightingResults: New page: Lighting Build
+[2023.10.06-21.29.26:230][553]LoadErrors: New page: Loading map: PrototypeTest_Level.umap
+[2023.10.06-21.29.26:231][553]LogWorld: UWorld::CleanupWorld for TestIgnore, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-21.29.26:231][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-21.29.26:232][553]MapCheck: New page: Map Check
+[2023.10.06-21.29.26:232][553]LightingResults: New page: Lighting Build
+[2023.10.06-21.29.26:284][553]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.06-21.29.26:290][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2023.10.06-21.29.26:501][553]LogWorld: UWorld::CleanupWorld for PrototypeTest_Level, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-21.29.26:509][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-21.29.26:828][553]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2023.10.06-21.29.26:881][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.10.06-21.29.28:063][553]LogSlate: Window 'Message' being destroyed
+[2023.10.06-21.29.28:067][553]Message dialog closed, result: Ok, title: Message, text: The following assets have been modified and cannot be unloaded:
+    /Temp/Autosaves/Game/Levels/PrototypeTest_Level_Auto9
+    /Temp/Autosaves/Game/Levels/PrototypeTest_Level_Auto2
+    /Temp/Autosaves/Game/Levels/PrototypeTest_Level_Auto8
+Saving these assets will allow them to be unloaded.
+[2023.10.06-21.29.28:510][553]LogAudio: Display: Audio Device (ID: 1) registered with world 'PrototypeTest_Level'.
+[2023.10.06-21.29.28:511][553]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-21.29.28:511][553]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-21.29.28:511][553]LogAIModule: Creating AISystem for world PrototypeTest_Level
+[2023.10.06-21.29.29:342][553]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2023.10.06-21.29.29:797][553]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.06-21.29.30:595][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.10.06-21.29.30:604][553]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.06-21.29.30:604][553]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.244ms to complete.
+[2023.10.06-21.29.30:604][553]LogFileHelpers: Loading map 'PrototypeTest_Level' took 4.374
+[2023.10.06-21.29.30:610][553]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.004744s (1.271318s overbudget)
+[2023.10.06-21.29.30:753][553]LogAutomationController: Ignoring very large delta of 10.36 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-21.30.41:593][372]BlueprintLog: New page: Compile BPGM_Volcanewt
+[2023.10.06-21.30.41:870][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.10.06-21.30.46:050][373]LogAutomationController: Ignoring very large delta of 4.46 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-21.30.46:072][373]LogPCG: Error: Attribute name Baby Blue is invalid
+[2023.10.06-21.32.17:265][  4]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.10.06-21.32.17:274][  4]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.10.06-21.32.17:289][  4]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.10.06-21.32.17:313][  5]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.10.06-21.32.23:916][256]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> BPW_LevelComplete
+[2023.10.06-21.32.23:926][256]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.10.06-21.32.39:353][822]LogContentBrowser: Attempting asset rename: BPW_EndLevel -> BPW_DestructionMeterFilled
+[2023.10.06-21.32.39:442][822]LogMetaData: Removing '/Game/UI/Widgets/BPW_DestructionMeterFilled.BPW_DestructionMeterFilled_C' ref from Metadata '/Game/UI/Widgets/BPW_EndLevel.PackageMetaData'
+[2023.10.06-21.32.39:442][822]LogMetaData: Removing '/Game/UI/Widgets/BPW_DestructionMeterFilled.BPW_DestructionMeterFilled:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/Widgets/BPW_EndLevel.PackageMetaData'
+[2023.10.06-21.32.39:442][822]LogMetaData: Removing '/Game/UI/Widgets/BPW_DestructionMeterFilled.BPW_DestructionMeterFilled:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/Widgets/BPW_EndLevel.PackageMetaData'
+[2023.10.06-21.32.39:442][822]LogMetaData: Removing '/Game/UI/Widgets/BPW_DestructionMeterFilled.BPW_DestructionMeterFilled:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/Widgets/BPW_EndLevel.PackageMetaData'
+[2023.10.06-21.32.39:442][822]LogMetaData: Removing '/Game/UI/Widgets/BPW_DestructionMeterFilled.SKEL_BPW_DestructionMeterFilled_C:PreConstruct' ref from Metadata '/Game/UI/Widgets/BPW_EndLevel.PackageMetaData'
+[2023.10.06-21.32.39:442][822]LogMetaData: Removing '/Game/UI/Widgets/BPW_DestructionMeterFilled.SKEL_BPW_DestructionMeterFilled_C:Construct' ref from Metadata '/Game/UI/Widgets/BPW_EndLevel.PackageMetaData'
+[2023.10.06-21.32.39:442][822]LogMetaData: Removing '/Game/UI/Widgets/BPW_DestructionMeterFilled.SKEL_BPW_DestructionMeterFilled_C:Tick' ref from Metadata '/Game/UI/Widgets/BPW_EndLevel.PackageMetaData'
+[2023.10.06-21.32.39:442][822]LogMetaData: Removing '/Game/UI/Widgets/BPW_DestructionMeterFilled.SKEL_BPW_DestructionMeterFilled_C:BndEvt__BPW_EndLevel_PoggersButton_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/Widgets/BPW_EndLevel.PackageMetaData'
+[2023.10.06-21.32.39:442][822]LogMetaData: Removing '/Game/UI/Widgets/BPW_DestructionMeterFilled.SKEL_BPW_DestructionMeterFilled_C' ref from Metadata '/Game/UI/Widgets/BPW_EndLevel.PackageMetaData'
+[2023.10.06-21.32.39:712][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.06-21.32.39:830][822]LogSavePackage: Moving output files for package: /Game/UI/Widgets/BPW_HUD
+[2023.10.06-21.32.39:831][822]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPW_HUDA5EF423A4690385FBF28C184B093A747.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/UI/Widgets/BPW_HUD.uasset'
+[2023.10.06-21.32.39:873][822]LogSavePackage: Moving output files for package: /Game/Blueprints/BPGM_Volcanewt
+[2023.10.06-21.32.39:874][822]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPGM_Volcanewt1D02C22146C6521CB1D1E89D4F434A33.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/Blueprints/BPGM_Volcanewt.uasset'
+[2023.10.06-21.32.39:897][822]LogSavePackage: Moving output files for package: /Game/UI/Widgets/BPW_DestructionMeterFilled
+[2023.10.06-21.32.39:897][822]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPW_DestructionMeterFilledD103A7B74101A8A60A37179C071F6D53.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/UI/Widgets/BPW_DestructionMeterFilled.uasset'
+[2023.10.06-21.32.39:917][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 30.3 sec)
+[2023.10.06-21.32.40:026][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.10.06-21.32.40:074][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.10.06-21.32.40:113][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.10.06-21.32.40:124][822]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.06-21.32.40:124][822]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPGM_Volcanewt.BPGM_Volcanewt
+[2023.10.06-21.32.40:124][822]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Widgets/BPW_DestructionMeterFilled.BPW_DestructionMeterFilled
+[2023.10.06-21.32.40:124][822]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Widgets/BPW_HUD.BPW_HUD
+[2023.10.06-21.36.35:455][360]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_SmallBuilding.BP_SmallBuilding
+[2023.10.06-21.36.35:456][360]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-21.36.35:456][360]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-21.36.38:465][513]LogViewport: Scene viewport resized to 920x687, mode Windowed.
+[2023.10.06-21.36.39:917][586]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-21.39.47:473][656]BlueprintLog: New page: Compile BPGM_Volcanewt
+[2023.10.06-21.39.47:792][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.10.06-21.39.52:621][657]LogAutomationController: Ignoring very large delta of 5.15 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-21.39.58:769][906]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2023.10.06-21.39.58:782][906]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.06-21.40.00:759][906]LogSlate: Window 'Save Level As' being destroyed
+[2023.10.06-21.40.00:816][906]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.03 sec (total: 32.3 sec)
+[2023.10.06-21.40.00:833][907]LogAutomationController: Ignoring very large delta of 2.15 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-21.40.06:969][148]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/BPW_LevelComplete.BPW_LevelComplete
+[2023.10.06-21.40.06:970][148]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-21.40.06:970][148]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-21.40.07:004][148]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-21.40.07:004][148]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-21.40.55:544][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.10.06-21.40.56:672][522]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/PrototypeTest_Level_Auto3
+[2023.10.06-21.40.56:672][522]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/PrototypeTest_Level_Auto3195C5CDF41DE0F5C1E21849EAB9A66D9.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/Levels/PrototypeTest_Level_Auto3.umap'
+[2023.10.06-21.40.56:702][522]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/PrototypeTest_Level' took 1.193
+[2023.10.06-21.40.56:702][522]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.193
+[2023.10.06-21.40.56:702][522]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPGM_Volcanewt] ([2] browsable assets)...
+[2023.10.06-21.40.56:702][522]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPGM_Volcanewt]
+[2023.10.06-21.40.56:750][522]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPGM_Volcanewt_Auto3
+[2023.10.06-21.40.56:751][522]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPGM_Volcanewt_Auto38C2F86984BADFA68CE7C36B3E1A0D3A6.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/Blueprints/BPGM_Volcanewt_Auto3.uasset'
+[2023.10.06-21.40.56:752][522]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ProceduralGen/ProceduralDistrictTest] ([1] browsable assets)...
+[2023.10.06-21.40.56:752][522]OBJ SavePackage: Finished generating thumbnails for package [/Game/ProceduralGen/ProceduralDistrictTest]
+[2023.10.06-21.40.56:772][522]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ProceduralGen/ProceduralDistrictTest_Auto3
+[2023.10.06-21.40.56:773][522]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/ProceduralDistrictTest_Auto39F37F06F42FDFFCA24BD98B98A895B60.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/ProceduralGen/ProceduralDistrictTest_Auto3.uasset'
+[2023.10.06-21.40.56:775][522]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/BPW_LevelComplete] ([2] browsable assets)...
+[2023.10.06-21.40.56:778][522]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/BPW_LevelComplete.BPW_LevelComplete]
+[2023.10.06-21.40.56:778][522]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/BPW_LevelComplete]
+[2023.10.06-21.40.56:781][522]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Widgets/BPW_LevelComplete_Auto3
+[2023.10.06-21.40.56:781][522]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPW_LevelComplete_Auto350F8BC16449EEBF7A236668F2BA82241.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/UI/Widgets/BPW_LevelComplete_Auto3.uasset'
+[2023.10.06-21.40.56:782][522]LogFileHelpers: Auto-saving content packages took 0.080
+[2023.10.06-21.41.43:626][183]BlueprintLog: New page: Compile BP_LargeBuilding
+[2023.10.06-21.41.45:229][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.10.06-21.41.50:054][184]LogAutomationController: Ignoring very large delta of 6.43 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-21.41.51:313][230]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-21.41.51:314][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-21.41.58:166][567]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.06-21.41.58:166][567]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-21.41.58:166][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-21.42.00:184][658]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.06-21.42.00:184][658]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-21.42.00:184][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-21.42.01:821][730]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.06-21.42.01:821][730]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-21.42.01:821][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-21.42.17:814][612]BlueprintLog: New page: Compile BPW_HUD
+[2023.10.06-21.42.17:890][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.10.06-21.42.19:863][705]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-21.42.19:863][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-21.42.19:873][705]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-21.42.19:873][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-21.42.27:999][ 24]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BPGM_Volcanewt.BPGM_Volcanewt
+[2023.10.06-21.42.27:999][ 24]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-21.42.28:000][ 24]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-21.43.34:346][ 31]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2023.10.06-21.43.34:366][ 31]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.06-21.43.43:718][532]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2023.10.06-21.43.43:741][532]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.06-21.44.31:143][200]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.06-21.44.38:215][604]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.06-21.44.45:043][  6]BlueprintLog: New page: Compile BPGM_Volcanewt
+[2023.10.06-21.44.45:324][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.10.06-21.46.34:502][419]LogDerivedDataCache: C:/Users/natec/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.260 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2174 files in 3155 folders with total size 65 MiB.
+[2023.10.06-21.48.14:527][315]BlueprintLog: New page: Compile BPW_LevelComplete
+[2023.10.06-21.48.14:708][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.10.06-21.49.20:216][762]BlueprintLog: New page: Compile BPGM_Volcanewt
+[2023.10.06-21.49.20:505][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.10.06-21.50.57:005][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.10.06-21.50.58:440][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/PrototypeTest_Level_Auto4
+[2023.10.06-21.50.58:441][417]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/PrototypeTest_Level_Auto4206CB9624E4A1239A4A2B39EED690A32.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/Levels/PrototypeTest_Level_Auto4.umap'
+[2023.10.06-21.50.58:473][417]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/PrototypeTest_Level' took 1.508
+[2023.10.06-21.50.58:473][417]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.508
+[2023.10.06-21.50.58:473][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPGM_Volcanewt] ([2] browsable assets)...
+[2023.10.06-21.50.58:473][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPGM_Volcanewt]
+[2023.10.06-21.50.58:527][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPGM_Volcanewt_Auto4
+[2023.10.06-21.50.58:528][417]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPGM_Volcanewt_Auto4713E311848A2F25F2F24628D4FF9AFC7.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/Blueprints/BPGM_Volcanewt_Auto4.uasset'
+[2023.10.06-21.50.58:530][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ProceduralGen/ProceduralDistrictTest] ([1] browsable assets)...
+[2023.10.06-21.50.58:530][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/ProceduralGen/ProceduralDistrictTest]
+[2023.10.06-21.50.58:553][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ProceduralGen/ProceduralDistrictTest_Auto4
+[2023.10.06-21.50.58:554][417]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/ProceduralDistrictTest_Auto4E8E314C74009398B8FAF769C142CE9A4.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/ProceduralGen/ProceduralDistrictTest_Auto4.uasset'
+[2023.10.06-21.50.58:557][417]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/BPW_LevelComplete] ([2] browsable assets)...
+[2023.10.06-21.50.58:562][417]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/BPW_LevelComplete.BPW_LevelComplete]
+[2023.10.06-21.50.58:562][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/BPW_LevelComplete]
+[2023.10.06-21.50.58:566][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Widgets/BPW_LevelComplete_Auto4
+[2023.10.06-21.50.58:566][417]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPW_LevelComplete_Auto4B3DAAA51492E52672160848613730457.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/UI/Widgets/BPW_LevelComplete_Auto4.uasset'
+[2023.10.06-21.50.58:567][417]LogFileHelpers: Auto-saving content packages took 0.094
+[2023.10.06-21.51.50:014][389]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.06-21.52.07:237][394]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.06-21.54.54:260][ 44]LogEditorTransaction: Undo Edit Text
+[2023.10.06-21.58.25:318][390]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.06-21.59.09:254][914]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.06-22.03.55:536][341]LogEditorTransaction: Undo Move Anchor
+[2023.10.06-22.05.08:513][ 78]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Widgets/BPW_HUD.BPW_HUD
+[2023.10.06-22.05.08:513][ 78]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.05.08:513][ 78]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-22.05.08:530][ 78]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.05.08:530][ 78]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-22.07.31:977][315]BlueprintLog: New page: Compile BPGM_Volcanewt
+[2023.10.06-22.07.32:296][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.10.06-22.08.43:703][490]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.10.06-22.08.45:120][490]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/PrototypeTest_Level_Auto5
+[2023.10.06-22.08.45:121][490]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/PrototypeTest_Level_Auto5AC21A17140A8D6B89F64C883A4CD413B.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/Levels/PrototypeTest_Level_Auto5.umap'
+[2023.10.06-22.08.45:144][490]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/PrototypeTest_Level' took 1.483
+[2023.10.06-22.08.45:145][490]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.483
+[2023.10.06-22.08.45:145][490]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPGM_Volcanewt] ([2] browsable assets)...
+[2023.10.06-22.08.45:145][490]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPGM_Volcanewt]
+[2023.10.06-22.08.45:194][490]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPGM_Volcanewt_Auto5
+[2023.10.06-22.08.45:195][490]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPGM_Volcanewt_Auto50B35923E42D9143BE6B6D2937A0CB8FA.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/Blueprints/BPGM_Volcanewt_Auto5.uasset'
+[2023.10.06-22.08.45:197][490]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/BPW_HUD] ([2] browsable assets)...
+[2023.10.06-22.08.45:203][490]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/BPW_HUD.BPW_HUD]
+[2023.10.06-22.08.45:203][490]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/BPW_HUD]
+[2023.10.06-22.08.45:238][490]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Widgets/BPW_HUD_Auto5
+[2023.10.06-22.08.45:238][490]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPW_HUD_Auto595A845804E5AB997E21A2E97BB7E89DB.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/UI/Widgets/BPW_HUD_Auto5.uasset'
+[2023.10.06-22.08.45:240][490]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ProceduralGen/ProceduralDistrictTest] ([1] browsable assets)...
+[2023.10.06-22.08.45:240][490]OBJ SavePackage: Finished generating thumbnails for package [/Game/ProceduralGen/ProceduralDistrictTest]
+[2023.10.06-22.08.45:274][490]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ProceduralGen/ProceduralDistrictTest_Auto5
+[2023.10.06-22.08.45:275][490]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/ProceduralDistrictTest_Auto5F7C2665946BE669475E31691D18431F2.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/ProceduralGen/ProceduralDistrictTest_Auto5.uasset'
+[2023.10.06-22.08.45:277][490]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/BPW_LevelComplete] ([2] browsable assets)...
+[2023.10.06-22.08.45:281][490]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/BPW_LevelComplete.BPW_LevelComplete]
+[2023.10.06-22.08.45:281][490]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/BPW_LevelComplete]
+[2023.10.06-22.08.45:288][490]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Widgets/BPW_LevelComplete_Auto5
+[2023.10.06-22.08.45:288][490]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPW_LevelComplete_Auto5F4C097A54C0E741EE6E7D29520D426DD.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/UI/Widgets/BPW_LevelComplete_Auto5.uasset'
+[2023.10.06-22.08.45:810][490]LogFileHelpers: Auto-saving content packages took 0.665
+[2023.10.06-22.08.45:835][491]LogAutomationController: Ignoring very large delta of 2.27 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-22.09.39:822][694]BlueprintLog: New page: Compile BPW_LevelComplete
+[2023.10.06-22.09.40:167][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.10.06-22.14.14:388][694]BlueprintLog: New page: Compile BPW_LevelComplete
+[2023.10.06-22.14.14:689][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.10.06-22.14.32:143][671]BlueprintLog: New page: Compile BPGM_Volcanewt
+[2023.10.06-22.14.32:477][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.10.06-22.18.51:082][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.10.06-22.18.52:568][991]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/PrototypeTest_Level_Auto6
+[2023.10.06-22.18.52:569][991]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/PrototypeTest_Level_Auto64467A2824D0B316BBF8808B49A8E1F01.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/Levels/PrototypeTest_Level_Auto6.umap'
+[2023.10.06-22.18.52:591][991]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/PrototypeTest_Level' took 1.554
+[2023.10.06-22.18.52:591][991]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.554
+[2023.10.06-22.18.52:591][991]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPGM_Volcanewt] ([2] browsable assets)...
+[2023.10.06-22.18.52:591][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPGM_Volcanewt]
+[2023.10.06-22.18.52:635][991]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPGM_Volcanewt_Auto6
+[2023.10.06-22.18.52:636][991]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPGM_Volcanewt_Auto6B63D90E1423D1039A6E86F9866F0F930.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/Blueprints/BPGM_Volcanewt_Auto6.uasset'
+[2023.10.06-22.18.52:639][991]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ProceduralGen/ProceduralDistrictTest] ([1] browsable assets)...
+[2023.10.06-22.18.52:639][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/ProceduralGen/ProceduralDistrictTest]
+[2023.10.06-22.18.52:666][991]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ProceduralGen/ProceduralDistrictTest_Auto6
+[2023.10.06-22.18.52:667][991]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/ProceduralDistrictTest_Auto66192D1DD48F9AD28719460AB6A7C67F6.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/ProceduralGen/ProceduralDistrictTest_Auto6.uasset'
+[2023.10.06-22.18.52:668][991]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/BPW_LevelComplete] ([2] browsable assets)...
+[2023.10.06-22.18.52:674][991]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/BPW_LevelComplete.BPW_LevelComplete]
+[2023.10.06-22.18.52:674][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/BPW_LevelComplete]
+[2023.10.06-22.18.52:685][991]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Widgets/BPW_LevelComplete_Auto6
+[2023.10.06-22.18.52:685][991]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPW_LevelComplete_Auto668D83A7C4F4450CE19278F91B1ACB9F0.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/UI/Widgets/BPW_LevelComplete_Auto6.uasset'
+[2023.10.06-22.18.52:686][991]LogFileHelpers: Auto-saving content packages took 0.095
+[2023.10.06-22.21.42:412][462]BlueprintLog: New page: Compile BPGM_Volcanewt
+[2023.10.06-22.21.42:815][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.10.06-22.24.10:731][659]BlueprintLog: New page: Compile BPW_LevelComplete
+[2023.10.06-22.24.11:125][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.10.06-22.26.14:951][ 26]BlueprintLog: New page: Compile BPW_LevelComplete
+[2023.10.06-22.26.15:035][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2023.10.06-22.27.41:500][476]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_EndLevel.BP_EndLevel
+[2023.10.06-22.27.41:500][476]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.27.41:500][476]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-22.27.41:685][476]LogViewport: Scene viewport resized to 920x687, mode Windowed.
+[2023.10.06-22.28.11:845][ 81]BlueprintLog: New page: Compile BP_EndLevel
+[2023.10.06-22.28.11:949][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2023.10.06-22.29.28:483][238]BlueprintLog: New page: Compile BP_EndLevel
+[2023.10.06-22.29.28:559][238]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.10.06-22.29.33:714][471]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_EndLevel.BP_EndLevel_C
+[2023.10.06-22.29.33:714][471]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_EndLevel.BP_EndLevel_C
+[2023.10.06-22.29.33:717][471]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_EndLevel.BP_EndLevel as actor: BP_EndLevel_C /Game/Levels/PrototypeTest_Level.PrototypeTest_Level:PersistentLevel.BP_EndLevel_C_0
+[2023.10.06-22.29.33:719][471]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_EndLevel.BP_EndLevel as actor: BP_EndLevel_C /Game/Levels/PrototypeTest_Level.PrototypeTest_Level:PersistentLevel.BP_EndLevel_C_0
+[2023.10.06-22.29.33:739][472]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.10.06-22.29.34:307][493]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_EndLevel.BP_EndLevel_C
+[2023.10.06-22.29.34:307][493]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_EndLevel.BP_EndLevel_C
+[2023.10.06-22.29.34:312][493]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_EndLevel.BP_EndLevel as actor: BP_EndLevel_C /Game/Levels/PrototypeTest_Level.PrototypeTest_Level:PersistentLevel.BP_EndLevel_C_1
+[2023.10.06-22.29.34:313][493]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_EndLevel.BP_EndLevel as actor: BP_EndLevel_C /Game/Levels/PrototypeTest_Level.PrototypeTest_Level:PersistentLevel.BP_EndLevel_C_1
+[2023.10.06-22.29.57:384][644]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.30.41:895][839]BlueprintLog: New page: Compile BP_EndLevel
+[2023.10.06-22.30.42:001][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.10.06-22.30.54:411][360]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.06-22.30.54:451][360]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.06-22.30.54:451][360]LogPlayLevel: [PlayLevel] Compiling PrototypeTest_Level_Auto9 before play...
+[2023.10.06-22.30.54:696][360]LogPlayLevel: [PlayLevel] Compiling PrototypeTest_Level_Auto2 before play...
+[2023.10.06-22.30.54:920][360]LogPlayLevel: [PlayLevel] Compiling PrototypeTest_Level_Auto8 before play...
+[2023.10.06-22.30.55:132][360]LogPlayLevel: [PlayLevel] Compiling PrototypeTest_Level before play...
+[2023.10.06-22.30.55:383][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.10.06-22.30.55:387][360]LogPlayLevel: PlayLevel: Blueprint regeneration took 936 ms (4 blueprints)
+[2023.10.06-22.30.55:389][360]PIE: New page: PIE session: PrototypeTest_Level (Oct 6, 2023, 2:30:55 PM)
+[2023.10.06-22.30.55:391][360]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PrototypeTest_Level
+[2023.10.06-22.30.55:636][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.245009s)
+[2023.10.06-22.30.55:636][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PrototypeTest_Level.PrototypeTest_Level to /Game/Levels/UEDPIE_0_PrototypeTest_Level.PrototypeTest_Level (0.245098s)
+[2023.10.06-22.30.55:638][360]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.30.55:638][360]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-22.30.55:638][360]LogAIModule: Creating AISystem for world PrototypeTest_Level
+[2023.10.06-22.30.55:640][360]LogPlayLevel: PIE: World Init took: (0.004049s)
+[2023.10.06-22.30.55:679][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.10.06-22.30.55:684][360]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.10.06-22.30.55:686][360]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.06-22.30.55:686][360]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.06-22.30.55:686][360]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.06-22.30.55:686][360]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.06-22.30.55:686][360]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.06-22.30.55:686][360]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.06-22.30.55:686][360]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.06-22.30.55:686][360]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.06-22.30.55:689][360]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.06-22.30.55:689][360]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.06-22.30.55:689][360]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.06-22.30.55:708][360]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.06-22.30.55:733][360]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.10.06-22.30.55:736][360]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.06-22.30.55:736][360]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.06-22.30.55:736][360]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.06-22.30.55:740][360]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.10.06-22.30.55:740][360]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.10.06-22.30.55:743][360]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.10.06-22.30.55:743][360]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.10.06-22.30.55:743][360]LogInit: FAudioDevice initialized with ID 10.
+[2023.10.06-22.30.55:744][360]LogAudio: Display: Audio Device (ID: 10) registered with world 'PrototypeTest_Level'.
+[2023.10.06-22.30.55:744][360]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.10.06-22.30.55:759][360]LogLoad: Game class is 'BPGM_Volcanewt_C'
+[2023.10.06-22.30.55:958][360]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PrototypeTest_Level.PrototypeTest_Level up for play (max tick rate 60) at 2023.10.06-18.30.55
+[2023.10.06-22.30.55:982][360]LogWorld: Bringing up level for play took: 0.223147
+[2023.10.06-22.30.55:993][360]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.10.06-22.30.56:195][360]LogBlueprintUserMessages: [BPGM_Volcanewt_C_0] 1500.0
+[2023.10.06-22.30.56:195][360]LogBlueprintUserMessages: [BPGM_Volcanewt_C_0] 8161.97
+[2023.10.06-22.30.56:195][360]LogBlueprintUserMessages: [BPGM_Volcanewt_C_0] 30
+[2023.10.06-22.30.56:195][360]LogBlueprintUserMessages: [BPGM_Volcanewt_C_0] 19
+[2023.10.06-22.30.56:206][360]PIE: Server logged in
+[2023.10.06-22.30.56:207][360]PIE: Play in editor total start time 1.776 seconds.
+[2023.10.06-22.30.56:556][361]LogAutomationController: Ignoring very large delta of 2.15 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-22.30.57:055][361]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.058553 > MaxSimulationTimeStep (0.050) for 'BP_Civilian_C_1', movement 'Walking'
+[2023.10.06-22.30.59:956][422]LogBlueprintUserMessages: [BP_Volcanewt_C_6] OneHitReset
+[2023.10.06-22.31.00:550][433]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_SmallBuilding39
+[2023.10.06-22.31.00:550][433]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_SmallBuilding40
+[2023.10.06-22.31.01:589][452]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_SmallBuilding40
+[2023.10.06-22.31.02:774][474]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_SmallBuilding45
+[2023.10.06-22.31.02:775][474]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/Player/BP_Volcanewt.BP_Volcanewt_C:ExecuteUbergraph_BP_Volcanewt'!
+[2023.10.06-22.31.02:775][474]LogScript: Warning: Script Msg called by: BP_Volcanewt_C /Game/Levels/UEDPIE_0_PrototypeTest_Level.PrototypeTest_Level:PersistentLevel.BP_Volcanewt_C_6
+[2023.10.06-22.31.02:775][474]LogBlueprintUserMessages: [BP_Volcanewt_C_6] 
+[2023.10.06-22.31.04:245][502]LogBlueprintUserMessages: [BP_Volcanewt_C_6] Combo Rest
+[2023.10.06-22.31.04:442][506]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Player/BP_Volcanewt.BP_Volcanewt_C:ExecuteUbergraph_BP_Volcanewt'!
+[2023.10.06-22.31.04:442][506]LogScript: Warning: Script Msg called by: BP_Volcanewt_C /Game/Levels/UEDPIE_0_PrototypeTest_Level.PrototypeTest_Level:PersistentLevel.BP_Volcanewt_C_6
+[2023.10.06-22.31.04:442][506]LogBlueprintUserMessages: [BP_Volcanewt_C_6] 
+[2023.10.06-22.31.05:764][533]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_SmallBuilding38
+[2023.10.06-22.31.06:838][555]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_Civilian
+[2023.10.06-22.31.06:839][555]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/Player/BP_Volcanewt.BP_Volcanewt_C:ExecuteUbergraph_BP_Volcanewt'!
+[2023.10.06-22.31.06:839][555]LogScript: Warning: Script Msg called by: BP_Volcanewt_C /Game/Levels/UEDPIE_0_PrototypeTest_Level.PrototypeTest_Level:PersistentLevel.BP_Volcanewt_C_6
+[2023.10.06-22.31.06:839][555]LogBlueprintUserMessages: [BP_Volcanewt_C_6] 
+[2023.10.06-22.31.08:318][586]LogBlueprintUserMessages: [BP_Volcanewt_C_6] Combo Rest
+[2023.10.06-22.31.09:663][615]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_Civilian
+[2023.10.06-22.31.09:664][615]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_LargeBuilding24
+[2023.10.06-22.31.10:697][637]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_Civilian
+[2023.10.06-22.31.10:697][637]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_LargeBuilding24
+[2023.10.06-22.31.11:744][659]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_Civilian
+[2023.10.06-22.31.11:744][659]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/Player/BP_Volcanewt.BP_Volcanewt_C:ExecuteUbergraph_BP_Volcanewt'!
+[2023.10.06-22.31.11:744][659]LogScript: Warning: Script Msg called by: BP_Volcanewt_C /Game/Levels/UEDPIE_0_PrototypeTest_Level.PrototypeTest_Level:PersistentLevel.BP_Volcanewt_C_6
+[2023.10.06-22.31.11:744][659]LogBlueprintUserMessages: [BP_Volcanewt_C_6] 
+[2023.10.06-22.31.13:211][692]LogBlueprintUserMessages: [BP_Volcanewt_C_6] Combo Rest
+[2023.10.06-22.31.13:377][695]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_Civilian
+[2023.10.06-22.31.13:377][695]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_LargeBuilding22
+[2023.10.06-22.31.14:504][720]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_Civilian
+[2023.10.06-22.31.14:504][720]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_LargeBuilding22
+[2023.10.06-22.31.15:535][745]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_Civilian
+[2023.10.06-22.31.15:536][745]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/Player/BP_Volcanewt.BP_Volcanewt_C:ExecuteUbergraph_BP_Volcanewt'!
+[2023.10.06-22.31.15:536][745]LogScript: Warning: Script Msg called by: BP_Volcanewt_C /Game/Levels/UEDPIE_0_PrototypeTest_Level.PrototypeTest_Level:PersistentLevel.BP_Volcanewt_C_6
+[2023.10.06-22.31.15:536][745]LogBlueprintUserMessages: [BP_Volcanewt_C_6] 
+[2023.10.06-22.31.17:009][780]LogBlueprintUserMessages: [BP_Volcanewt_C_6] Combo Rest
+[2023.10.06-22.31.17:139][783]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_SmallBuilding37
+[2023.10.06-22.31.18:339][811]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Player/BP_Volcanewt.BP_Volcanewt_C:ExecuteUbergraph_BP_Volcanewt'!
+[2023.10.06-22.31.18:339][811]LogScript: Warning: Script Msg called by: BP_Volcanewt_C /Game/Levels/UEDPIE_0_PrototypeTest_Level.PrototypeTest_Level:PersistentLevel.BP_Volcanewt_C_6
+[2023.10.06-22.31.18:339][811]LogBlueprintUserMessages: [BP_Volcanewt_C_6] 
+[2023.10.06-22.31.20:884][874]LogBlueprintUserMessages: [BP_Volcanewt_C_6] Combo Rest
+[2023.10.06-22.31.20:925][875]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_LargeBuilding27
+[2023.10.06-22.31.21:993][901]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_LargeBuilding27
+[2023.10.06-22.31.23:164][930]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 0 in '/Game/Player/BP_Volcanewt.BP_Volcanewt_C:ExecuteUbergraph_BP_Volcanewt'!
+[2023.10.06-22.31.23:164][930]LogScript: Warning: Script Msg called by: BP_Volcanewt_C /Game/Levels/UEDPIE_0_PrototypeTest_Level.PrototypeTest_Level:PersistentLevel.BP_Volcanewt_C_6
+[2023.10.06-22.31.23:164][930]LogBlueprintUserMessages: [BP_Volcanewt_C_6] 
+[2023.10.06-22.31.24:657][968]LogBlueprintUserMessages: [BP_Volcanewt_C_6] Combo Rest
+[2023.10.06-22.31.24:922][975]LogBlueprintUserMessages: [BP_Volcanewt_C_6] ProceduralDistrictTest
+[2023.10.06-22.31.26:024][  4]LogBlueprintUserMessages: [BP_Volcanewt_C_6] ProceduralDistrictTest
+[2023.10.06-22.31.26:024][  4]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_LargeBuilding26
+[2023.10.06-22.31.26:024][  4]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_LargeBuilding25
+[2023.10.06-22.31.27:185][ 35]LogBlueprintUserMessages: [BP_Volcanewt_C_6] ProceduralDistrictTest
+[2023.10.06-22.31.27:185][ 35]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_LargeBuilding26
+[2023.10.06-22.31.27:185][ 35]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_LargeBuilding25
+[2023.10.06-22.31.28:678][ 76]LogBlueprintUserMessages: [BP_Volcanewt_C_6] Combo Rest
+[2023.10.06-22.31.28:932][ 83]LogBlueprintUserMessages: [BP_Volcanewt_C_6] ProceduralDistrictTest
+[2023.10.06-22.31.28:933][ 83]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_LargeBuilding25
+[2023.10.06-22.31.30:099][115]LogBlueprintUserMessages: [BP_Volcanewt_C_6] ProceduralDistrictTest
+[2023.10.06-22.31.30:100][115]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/Player/BP_Volcanewt.BP_Volcanewt_C:ExecuteUbergraph_BP_Volcanewt'!
+[2023.10.06-22.31.30:100][115]LogScript: Warning: Script Msg called by: BP_Volcanewt_C /Game/Levels/UEDPIE_0_PrototypeTest_Level.PrototypeTest_Level:PersistentLevel.BP_Volcanewt_C_6
+[2023.10.06-22.31.30:100][115]LogBlueprintUserMessages: [BP_Volcanewt_C_6] 
+[2023.10.06-22.31.31:313][149]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_LargeBuilding29
+[2023.10.06-22.31.32:785][193]LogBlueprintUserMessages: [BP_Volcanewt_C_6] Combo Rest
+[2023.10.06-22.31.42:196][488]LogScript: Warning: Script Msg: The widget 'BPW_LevelComplete_C_0' was already added to the screen.
+[2023.10.06-22.31.42:196][488]LogScript: Warning: Script Msg called by: BPGM_Volcanewt_C /Game/Levels/UEDPIE_0_PrototypeTest_Level.PrototypeTest_Level:PersistentLevel.BPGM_Volcanewt_C_0
+[2023.10.06-22.31.42:196][488]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.10.06-22.31.42:196][488]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.10.06-22.32.40:874][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.06-22.32.40:874][205]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_PrototypeTest_Level
+[2023.10.06-22.32.40:875][205]LogWorld: UWorld::CleanupWorld for PrototypeTest_Level, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.32.40:889][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.32.40:912][205]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.06-22.32.40:922][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.32.40:970][205]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.06-22.32.40:988][205]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.10.06-22.32.40:988][205]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.10.06-22.32.40:991][205]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.10.06-22.32.40:998][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.06-22.32.41:045][205]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2023.10.06-22.32.41:098][206]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.10.06-22.32.42:184][262]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.06-22.32.42:201][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.06-22.32.42:202][262]PIE: New page: PIE session: PrototypeTest_Level (Oct 6, 2023, 2:32:42 PM)
+[2023.10.06-22.32.42:202][262]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PrototypeTest_Level
+[2023.10.06-22.32.42:481][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.279700s)
+[2023.10.06-22.32.42:482][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PrototypeTest_Level.PrototypeTest_Level to /Game/Levels/UEDPIE_0_PrototypeTest_Level.PrototypeTest_Level (0.279770s)
+[2023.10.06-22.32.42:482][262]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.32.42:482][262]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-22.32.42:483][262]LogAIModule: Creating AISystem for world PrototypeTest_Level
+[2023.10.06-22.32.42:483][262]LogPlayLevel: PIE: World Init took: (0.001614s)
+[2023.10.06-22.32.42:525][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.10.06-22.32.42:530][262]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.10.06-22.32.42:530][262]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.06-22.32.42:530][262]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.06-22.32.42:530][262]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.06-22.32.42:530][262]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.06-22.32.42:530][262]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.06-22.32.42:530][262]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.06-22.32.42:530][262]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.06-22.32.42:530][262]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.06-22.32.42:531][262]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.06-22.32.42:531][262]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.06-22.32.42:531][262]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.06-22.32.42:533][262]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.06-22.32.42:552][262]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.10.06-22.32.42:553][262]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.06-22.32.42:553][262]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.06-22.32.42:553][262]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.06-22.32.42:554][262]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.10.06-22.32.42:554][262]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.10.06-22.32.42:557][262]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.10.06-22.32.42:557][262]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.10.06-22.32.42:557][262]LogInit: FAudioDevice initialized with ID 11.
+[2023.10.06-22.32.42:557][262]LogAudio: Display: Audio Device (ID: 11) registered with world 'PrototypeTest_Level'.
+[2023.10.06-22.32.42:557][262]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.10.06-22.32.42:561][262]LogLoad: Game class is 'BPGM_Volcanewt_C'
+[2023.10.06-22.32.42:726][262]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PrototypeTest_Level.PrototypeTest_Level up for play (max tick rate 60) at 2023.10.06-18.32.42
+[2023.10.06-22.32.42:728][262]LogWorld: Bringing up level for play took: 0.166187
+[2023.10.06-22.32.42:735][262]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.10.06-22.32.42:953][262]LogBlueprintUserMessages: [BPGM_Volcanewt_C_0] 1500.0
+[2023.10.06-22.32.42:953][262]LogBlueprintUserMessages: [BPGM_Volcanewt_C_0] 8161.97
+[2023.10.06-22.32.42:953][262]LogBlueprintUserMessages: [BPGM_Volcanewt_C_0] 30
+[2023.10.06-22.32.42:953][262]LogBlueprintUserMessages: [BPGM_Volcanewt_C_0] 19
+[2023.10.06-22.32.42:956][262]PIE: Server logged in
+[2023.10.06-22.32.42:957][262]PIE: Play in editor total start time 0.755 seconds.
+[2023.10.06-22.32.43:262][263]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.054314 > MaxSimulationTimeStep (0.050) for 'BP_Civilian_C_1', movement 'Walking'
+[2023.10.06-22.32.45:913][316]LogBlueprintUserMessages: [BP_Volcanewt_C_6] OneHitReset
+[2023.10.06-22.32.49:542][382]LogScript: Warning: Script Msg: The widget 'BPW_LevelComplete_C_0' was already added to the screen.
+[2023.10.06-22.32.49:542][382]LogScript: Warning: Script Msg called by: BPGM_Volcanewt_C /Game/Levels/UEDPIE_0_PrototypeTest_Level.PrototypeTest_Level:PersistentLevel.BPGM_Volcanewt_C_0
+[2023.10.06-22.32.49:542][382]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.10.06-22.32.49:542][382]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.10.06-22.32.51:264][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.06-22.32.51:264][463]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_PrototypeTest_Level
+[2023.10.06-22.32.51:265][463]LogWorld: UWorld::CleanupWorld for PrototypeTest_Level, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.32.51:280][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.32.51:289][463]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.06-22.32.51:300][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.32.51:372][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.06-22.32.51:374][463]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.10.06-22.32.51:374][463]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.10.06-22.32.51:377][463]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.10.06-22.32.51:420][463]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2023.10.06-22.32.51:494][464]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.10.06-22.34.51:860][917]BlueprintLog: New page: Compile BPGM_Volcanewt
+[2023.10.06-22.34.52:278][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.10.06-22.35.04:554][455]LogEditorTransaction: Undo Move Node
+[2023.10.06-22.35.05:540][475]LogEditorTransaction: Undo Delete current selection
+[2023.10.06-22.35.06:507][497]LogEditorTransaction: Undo Delete current selection
+[2023.10.06-22.35.07:572][525]LogEditorTransaction: Undo Delete current selection
+[2023.10.06-22.35.24:175][348]BlueprintLog: New page: Compile BPGM_Volcanewt
+[2023.10.06-22.35.24:595][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.10.06-22.35.32:798][611]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.06-22.35.32:817][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.06-22.35.32:817][611]PIE: New page: PIE session: PrototypeTest_Level (Oct 6, 2023, 2:35:32 PM)
+[2023.10.06-22.35.32:818][611]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PrototypeTest_Level
+[2023.10.06-22.35.33:097][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.279693s)
+[2023.10.06-22.35.33:097][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PrototypeTest_Level.PrototypeTest_Level to /Game/Levels/UEDPIE_0_PrototypeTest_Level.PrototypeTest_Level (0.279768s)
+[2023.10.06-22.35.33:097][611]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.35.33:098][611]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-22.35.33:098][611]LogAIModule: Creating AISystem for world PrototypeTest_Level
+[2023.10.06-22.35.33:099][611]LogPlayLevel: PIE: World Init took: (0.001612s)
+[2023.10.06-22.35.33:142][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.10.06-22.35.33:146][611]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.10.06-22.35.33:146][611]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.06-22.35.33:146][611]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.06-22.35.33:146][611]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.06-22.35.33:146][611]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.06-22.35.33:146][611]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.06-22.35.33:146][611]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.06-22.35.33:146][611]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.06-22.35.33:146][611]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.06-22.35.33:146][611]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.06-22.35.33:146][611]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.06-22.35.33:146][611]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.06-22.35.33:149][611]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.06-22.35.33:169][611]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.10.06-22.35.33:169][611]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.06-22.35.33:169][611]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.06-22.35.33:169][611]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.06-22.35.33:170][611]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.10.06-22.35.33:170][611]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.10.06-22.35.33:173][611]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.10.06-22.35.33:173][611]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.10.06-22.35.33:173][611]LogInit: FAudioDevice initialized with ID 12.
+[2023.10.06-22.35.33:173][611]LogAudio: Display: Audio Device (ID: 12) registered with world 'PrototypeTest_Level'.
+[2023.10.06-22.35.33:173][611]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.10.06-22.35.33:177][611]LogLoad: Game class is 'BPGM_Volcanewt_C'
+[2023.10.06-22.35.33:335][611]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PrototypeTest_Level.PrototypeTest_Level up for play (max tick rate 60) at 2023.10.06-18.35.33
+[2023.10.06-22.35.33:337][611]LogWorld: Bringing up level for play took: 0.159808
+[2023.10.06-22.35.33:340][611]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2023.10.06-22.35.33:543][611]LogBlueprintUserMessages: [BPGM_Volcanewt_C_0] 1500.0
+[2023.10.06-22.35.33:543][611]LogBlueprintUserMessages: [BPGM_Volcanewt_C_0] 8161.97
+[2023.10.06-22.35.33:543][611]LogBlueprintUserMessages: [BPGM_Volcanewt_C_0] 30
+[2023.10.06-22.35.33:543][611]LogBlueprintUserMessages: [BPGM_Volcanewt_C_0] 19
+[2023.10.06-22.35.33:546][611]PIE: Server logged in
+[2023.10.06-22.35.33:547][611]PIE: Play in editor total start time 0.73 seconds.
+[2023.10.06-22.35.33:830][612]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.058750 > MaxSimulationTimeStep (0.050) for 'BP_Civilian_C_1', movement 'Walking'
+[2023.10.06-22.35.36:379][666]LogBlueprintUserMessages: [BP_Volcanewt_C_6] OneHitReset
+[2023.10.06-22.35.36:590][670]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_SmallBuilding40
+[2023.10.06-22.35.36:590][670]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_SmallBuilding39
+[2023.10.06-22.35.37:722][691]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_SmallBuilding38
+[2023.10.06-22.35.37:723][691]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/Player/BP_Volcanewt.BP_Volcanewt_C:ExecuteUbergraph_BP_Volcanewt'!
+[2023.10.06-22.35.37:723][691]LogScript: Warning: Script Msg called by: BP_Volcanewt_C /Game/Levels/UEDPIE_0_PrototypeTest_Level.PrototypeTest_Level:PersistentLevel.BP_Volcanewt_C_6
+[2023.10.06-22.35.37:723][691]LogBlueprintUserMessages: [BP_Volcanewt_C_6] 
+[2023.10.06-22.35.38:912][713]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_SmallBuilding41
+[2023.10.06-22.35.38:912][713]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetOverlappingActors_OverlappingActors' of length 1 in '/Game/Player/BP_Volcanewt.BP_Volcanewt_C:ExecuteUbergraph_BP_Volcanewt'!
+[2023.10.06-22.35.38:912][713]LogScript: Warning: Script Msg called by: BP_Volcanewt_C /Game/Levels/UEDPIE_0_PrototypeTest_Level.PrototypeTest_Level:PersistentLevel.BP_Volcanewt_C_6
+[2023.10.06-22.35.38:912][713]LogBlueprintUserMessages: [BP_Volcanewt_C_6] 
+[2023.10.06-22.35.40:359][740]LogBlueprintUserMessages: [BP_Volcanewt_C_6] Combo Rest
+[2023.10.06-22.35.40:464][742]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_SmallBuilding37
+[2023.10.06-22.35.41:682][766]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_SmallBuilding34
+[2023.10.06-22.35.41:683][766]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_Civilian
+[2023.10.06-22.35.42:776][789]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_SmallBuilding34
+[2023.10.06-22.35.42:776][789]LogBlueprintUserMessages: [BP_Volcanewt_C_6] BP_Civilian
+[2023.10.06-22.35.44:267][822]LogBlueprintUserMessages: [BP_Volcanewt_C_6] Combo Rest
+[2023.10.06-22.35.49:488][948]LogScript: Warning: Script Msg: The widget 'BPW_LevelComplete_C_0' was already added to the screen.
+[2023.10.06-22.35.49:488][948]LogScript: Warning: Script Msg called by: BPGM_Volcanewt_C /Game/Levels/UEDPIE_0_PrototypeTest_Level.PrototypeTest_Level:PersistentLevel.BPGM_Volcanewt_C_0
+[2023.10.06-22.35.49:488][948]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.10.06-22.35.49:488][948]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.10.06-22.36.04:495][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.06-22.36.04:495][490]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_PrototypeTest_Level
+[2023.10.06-22.36.04:496][490]LogWorld: UWorld::CleanupWorld for PrototypeTest_Level, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.36.04:511][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.36.04:519][490]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.06-22.36.04:529][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.36.04:598][490]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.06-22.36.04:598][490]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.10.06-22.36.04:598][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.10.06-22.36.04:601][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.10.06-22.36.04:607][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.06-22.36.04:644][490]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2023.10.06-22.36.04:697][491]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.10.06-22.36.30:412][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.10.06-22.36.31:602][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/PrototypeTest_Level_Auto7
+[2023.10.06-22.36.31:603][610]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/PrototypeTest_Level_Auto75D0203494DEFF8D9406C0D9DFC83ABF6.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/Levels/PrototypeTest_Level_Auto7.umap'
+[2023.10.06-22.36.31:623][610]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/PrototypeTest_Level' took 1.248
+[2023.10.06-22.36.31:623][610]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.248
+[2023.10.06-22.36.31:623][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BPGM_Volcanewt] ([2] browsable assets)...
+[2023.10.06-22.36.31:623][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BPGM_Volcanewt]
+[2023.10.06-22.36.31:667][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BPGM_Volcanewt_Auto7
+[2023.10.06-22.36.31:668][610]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPGM_Volcanewt_Auto7D13BE6054D95DCD190B94AA9CF13AB61.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/Blueprints/BPGM_Volcanewt_Auto7.uasset'
+[2023.10.06-22.36.31:670][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Widgets/BPW_HUD] ([2] browsable assets)...
+[2023.10.06-22.36.31:670][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/BPW_HUD]
+[2023.10.06-22.36.31:710][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Widgets/BPW_HUD_Auto7
+[2023.10.06-22.36.31:711][610]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPW_HUD_Auto796C36B204C7595CA9DA51180DE5656C4.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/UI/Widgets/BPW_HUD_Auto7.uasset'
+[2023.10.06-22.36.31:713][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ProceduralGen/ProceduralDistrictTest] ([1] browsable assets)...
+[2023.10.06-22.36.31:713][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/ProceduralGen/ProceduralDistrictTest]
+[2023.10.06-22.36.31:738][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ProceduralGen/ProceduralDistrictTest_Auto7
+[2023.10.06-22.36.31:740][610]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/ProceduralDistrictTest_Auto714D5BB324D2940ACA2C0749B6E960E6F.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/ProceduralGen/ProceduralDistrictTest_Auto7.uasset'
+[2023.10.06-22.36.31:741][610]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_EndLevel] ([2] browsable assets)...
+[2023.10.06-22.36.31:787][610]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_EndLevel.BP_EndLevel]
+[2023.10.06-22.36.31:787][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_EndLevel]
+[2023.10.06-22.36.31:793][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_EndLevel_Auto7
+[2023.10.06-22.36.31:793][610]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BP_EndLevel_Auto73000967743BBE0A8330199A23F2B1338.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/Blueprints/BP_EndLevel_Auto7.uasset'
+[2023.10.06-22.36.31:797][610]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Widgets/BPW_LevelComplete] ([2] browsable assets)...
+[2023.10.06-22.36.31:803][610]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Widgets/BPW_LevelComplete.BPW_LevelComplete]
+[2023.10.06-22.36.31:803][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Widgets/BPW_LevelComplete]
+[2023.10.06-22.36.31:818][610]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Widgets/BPW_LevelComplete_Auto7
+[2023.10.06-22.36.31:819][610]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPW_LevelComplete_Auto7ABF0C927486374595C339C92BFB4A5FD.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/Autosaves/Game/UI/Widgets/BPW_LevelComplete_Auto7.uasset'
+[2023.10.06-22.36.31:820][610]LogFileHelpers: Auto-saving content packages took 0.197
+[2023.10.06-22.42.16:854][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.10.06-22.42.16:865][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.06-22.42.18:463][166]LogSlate: Window 'Save Level As' being destroyed
+[2023.10.06-22.42.18:529][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.66 sec (total: 34.0 sec)
+[2023.10.06-22.42.20:484][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.10.06-22.42.20:534][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.10.06-22.42.30:795][246]LogSlate: Window 'Save Content' being destroyed
+[2023.10.06-22.42.30:805][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.06-22.42.30:938][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.10.06-22.42.32:308][246]LogSavePackage: Moving output files for package: /Game/Levels/PrototypeTest_Level
+[2023.10.06-22.42.32:309][246]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/PrototypeTest_Level62069E8845FAA8E5DBFBDFAA5FD82C4B.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/Levels/PrototypeTest_Level.umap'
+[2023.10.06-22.42.32:330][246]LogFileHelpers: Saving map 'PrototypeTest_Level' took 1.429
+[2023.10.06-22.42.32:336][246]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_EndLevel
+[2023.10.06-22.42.32:337][246]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BP_EndLevel3968ADF748B9D19A0FFE638624CE2D55.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/Blueprints/BP_EndLevel.uasset'
+[2023.10.06-22.42.32:386][246]LogSavePackage: Moving output files for package: /Game/Blueprints/BPGM_Volcanewt
+[2023.10.06-22.42.32:387][246]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPGM_Volcanewt07762DE6437C7366FCDA13BACD090733.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/Blueprints/BPGM_Volcanewt.uasset'
+[2023.10.06-22.42.32:416][246]LogSavePackage: Moving output files for package: /Game/UI/Widgets/BPW_HUD
+[2023.10.06-22.42.32:417][246]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPW_HUD53696DE046C2A3CD85759BAD78A86F6F.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/UI/Widgets/BPW_HUD.uasset'
+[2023.10.06-22.42.32:448][246]LogSavePackage: Moving output files for package: /Game/UI/Widgets/BPW_LevelComplete
+[2023.10.06-22.42.32:448][246]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/BPW_LevelCompleteB8551C9C43333AB0B5447AAE2080197C.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/UI/Widgets/BPW_LevelComplete.uasset'
+[2023.10.06-22.42.32:482][246]LogSavePackage: Moving output files for package: /Game/ProceduralGen/ProceduralDistrictTest
+[2023.10.06-22.42.32:483][246]LogSavePackage: Moving '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Saved/ProceduralDistrictTest7009A48C41BE119CFE9C8B9B63C43DA7.tmp' to '../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/ProceduralGen/ProceduralDistrictTest.uasset'
+[2023.10.06-22.42.32:496][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.69 sec (total: 35.7 sec)
+[2023.10.06-22.42.32:608][246]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.42.32:610][246]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/TestIgnore.TestIgnore
+[2023.10.06-22.42.32:610][246]Cmd: MAP LOAD FILE="../../../../../../Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/Levels/TestIgnore.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.10.06-22.42.32:610][246]LightingResults: New page: Lighting Build
+[2023.10.06-22.42.32:620][246]LoadErrors: New page: Loading map: TestIgnore.umap
+[2023.10.06-22.42.32:662][246]LogWorld: UWorld::CleanupWorld for PrototypeTest_Level, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.42.32:663][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.42.32:665][246]MapCheck: New page: Map Check
+[2023.10.06-22.42.32:665][246]LightingResults: New page: Lighting Build
+[2023.10.06-22.42.32:709][246]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.06-22.42.32:786][246]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2023.10.06-22.42.32:803][246]LogWorld: UWorld::CleanupWorld for TestIgnore, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.42.32:803][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.42.32:840][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.10.06-22.42.32:885][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.10.06-22.42.34:319][246]LogSlate: Window 'Message' being destroyed
+[2023.10.06-22.42.34:323][246]Message dialog closed, result: Ok, title: Message, text: The following assets have been modified and cannot be unloaded:
+    /Temp/Autosaves/Game/Levels/PrototypeTest_Level_Auto9
+    /Temp/Autosaves/Game/Levels/PrototypeTest_Level_Auto2
+    /Temp/Autosaves/Game/Levels/PrototypeTest_Level_Auto8
+Saving these assets will allow them to be unloaded.
+[2023.10.06-22.42.34:327][246]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestIgnore'.
+[2023.10.06-22.42.34:327][246]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.42.34:328][246]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-22.42.34:328][246]LogAIModule: Creating AISystem for world TestIgnore
+[2023.10.06-22.42.34:354][246]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.06-22.42.34:388][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.10.06-22.42.34:396][246]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.06-22.42.34:396][246]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.131ms to complete.
+[2023.10.06-22.42.34:396][246]LogFileHelpers: Loading map 'TestIgnore' took 1.786
+[2023.10.06-22.42.34:436][246]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.06-22.42.34:436][246]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPGM_Volcanewt.BPGM_Volcanewt
+[2023.10.06-22.42.34:436][246]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Widgets/BPW_HUD.BPW_HUD
+[2023.10.06-22.42.34:441][246]LogContentValidation: Display: Validating /Script/PCG.PCGGraph /Game/ProceduralGen/ProceduralDistrictTest.ProceduralDistrictTest
+[2023.10.06-22.42.34:441][246]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Widgets/BPW_LevelComplete.BPW_LevelComplete
+[2023.10.06-22.42.34:442][246]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_EndLevel.BP_EndLevel
+[2023.10.06-22.42.34:460][247]LogAutomationController: Ignoring very large delta of 14.02 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-22.42.38:809][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.10.06-22.42.38:852][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.10.06-22.42.41:569][491]LogSlate: Window 'Save Content' being destroyed
+[2023.10.06-22.42.42:143][491]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.42.42:615][491]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/PrototypeTest_Level.PrototypeTest_Level
+[2023.10.06-22.42.42:615][491]LightingResults: New page: Lighting Build
+[2023.10.06-22.42.42:616][491]LoadErrors: New page: Loading map: PrototypeTest_Level.umap
+[2023.10.06-22.42.42:617][491]LogWorld: UWorld::CleanupWorld for TestIgnore, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.42.42:617][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.42.42:619][491]MapCheck: New page: Map Check
+[2023.10.06-22.42.42:620][491]LightingResults: New page: Lighting Build
+[2023.10.06-22.42.42:667][491]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.06-22.42.42:673][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.10.06-22.42.42:886][491]LogWorld: UWorld::CleanupWorld for PrototypeTest_Level, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.42.42:895][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.42.43:282][491]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2023.10.06-22.42.43:339][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.10.06-22.42.53:508][491]LogSlate: Window 'Message' being destroyed
+[2023.10.06-22.42.53:513][491]Message dialog closed, result: Ok, title: Message, text: The following assets have been modified and cannot be unloaded:
+    /Temp/Autosaves/Game/Levels/PrototypeTest_Level_Auto9
+    /Temp/Autosaves/Game/Levels/PrototypeTest_Level_Auto2
+    /Temp/Autosaves/Game/Levels/PrototypeTest_Level_Auto8
+Saving these assets will allow them to be unloaded.
+[2023.10.06-22.42.53:912][491]LogAudio: Display: Audio Device (ID: 1) registered with world 'PrototypeTest_Level'.
+[2023.10.06-22.42.53:912][491]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.42.53:912][491]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-22.42.53:913][491]LogAIModule: Creating AISystem for world PrototypeTest_Level
+[2023.10.06-22.42.54:687][491]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2023.10.06-22.42.55:249][491]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.06-22.42.55:899][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.10.06-22.42.55:909][491]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.06-22.42.55:909][491]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.3ms to complete.
+[2023.10.06-22.42.55:909][491]LogFileHelpers: Loading map 'PrototypeTest_Level' took 13.293
+[2023.10.06-22.42.55:914][491]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.003883s (1.231571s overbudget)
+[2023.10.06-22.42.56:338][492]LogAutomationController: Ignoring very large delta of 17.57 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-22.43.50:109][143]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.06-22.43.50:130][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.06-22.43.50:130][143]PIE: New page: PIE session: PrototypeTest_Level (Oct 6, 2023, 2:43:50 PM)
+[2023.10.06-22.43.50:130][143]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PrototypeTest_Level
+[2023.10.06-22.43.50:453][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.322733s)
+[2023.10.06-22.43.50:453][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PrototypeTest_Level.PrototypeTest_Level to /Game/Levels/UEDPIE_0_PrototypeTest_Level.PrototypeTest_Level (0.322808s)
+[2023.10.06-22.43.50:453][143]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.43.50:454][143]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-22.43.50:454][143]LogAIModule: Creating AISystem for world PrototypeTest_Level
+[2023.10.06-22.43.50:455][143]LogPlayLevel: PIE: World Init took: (0.001799s)
+[2023.10.06-22.43.50:503][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.10.06-22.43.50:509][143]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.10.06-22.43.50:509][143]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.06-22.43.50:509][143]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.06-22.43.50:509][143]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.06-22.43.50:509][143]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.06-22.43.50:509][143]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.10.06-22.43.50:509][143]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.06-22.43.50:509][143]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.10.06-22.43.50:509][143]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.06-22.43.50:509][143]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.06-22.43.50:510][143]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.06-22.43.50:510][143]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.06-22.43.50:513][143]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.06-22.43.50:533][143]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.10.06-22.43.50:533][143]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.06-22.43.50:533][143]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.06-22.43.50:533][143]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.06-22.43.50:535][143]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.10.06-22.43.50:535][143]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.10.06-22.43.50:538][143]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.10.06-22.43.50:538][143]LogInit: FAudioDevice initialized with ID 13.
+[2023.10.06-22.43.50:538][143]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.10.06-22.43.50:538][143]LogAudio: Display: Audio Device (ID: 13) registered with world 'PrototypeTest_Level'.
+[2023.10.06-22.43.50:538][143]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.10.06-22.43.50:542][143]LogLoad: Game class is 'BPGM_Volcanewt_C'
+[2023.10.06-22.43.50:730][143]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PrototypeTest_Level.PrototypeTest_Level up for play (max tick rate 60) at 2023.10.06-18.43.50
+[2023.10.06-22.43.50:731][143]LogWorld: Bringing up level for play took: 0.189008
+[2023.10.06-22.43.50:737][143]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.10.06-22.43.50:949][143]LogBlueprintUserMessages: [BPGM_Volcanewt_C_0] 1500.0
+[2023.10.06-22.43.50:950][143]LogBlueprintUserMessages: [BPGM_Volcanewt_C_0] 8161.97
+[2023.10.06-22.43.50:950][143]LogBlueprintUserMessages: [BPGM_Volcanewt_C_0] 30
+[2023.10.06-22.43.50:950][143]LogBlueprintUserMessages: [BPGM_Volcanewt_C_0] 19
+[2023.10.06-22.43.50:953][143]PIE: Server logged in
+[2023.10.06-22.43.50:954][143]PIE: Play in editor total start time 0.824 seconds.
+[2023.10.06-22.43.51:451][144]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.054314 > MaxSimulationTimeStep (0.050) for 'BP_Civilian_C_1', movement 'Walking'
+[2023.10.06-22.43.56:288][276]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.10.06-22.44.34:239][844]LogNet: Browse: /Game/Levels/MainMenu
+[2023.10.06-22.44.34:240][844]LogLoad: LoadMap: /Game/Levels/MainMenu
+[2023.10.06-22.44.34:240][844]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_PrototypeTest_Level
+[2023.10.06-22.44.34:243][844]LogWorld: UWorld::CleanupWorld for PrototypeTest_Level, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.44.34:261][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.44.34:332][844]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.06-22.44.34:374][844]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2023.10.06-22.44.34:407][844]LogAudio: Display: Audio Device (ID: 13) registered with world 'MainMenu'.
+[2023.10.06-22.44.34:407][844]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.06-22.44.34:407][844]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.06-22.44.34:408][844]LogAIModule: Creating AISystem for world MainMenu
+[2023.10.06-22.44.34:408][844]LogPlayLevel: PIE: World Init took: (0.001388s)
+[2023.10.06-22.44.34:409][844]LogLoad: Game class is 'GameModeBase'
+[2023.10.06-22.44.34:409][844]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2023.10.06-18.44.34
+[2023.10.06-22.44.34:409][844]LogWorld: Bringing up level for play took: 0.000556
+[2023.10.06-22.44.34:410][844]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.10.06-22.44.34:414][844]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.10.06-22.44.34:414][844]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.10.06-22.44.34:414][844]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.10.06-22.44.34:414][844]LogLoad: Took 0.174018 seconds to LoadMap(/Game/Levels/MainMenu)
+[2023.10.06-22.44.49:123][725]Cmd: quit
+[2023.10.06-22.44.49:135][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.06-22.44.49:135][725]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenu
+[2023.10.06-22.44.49:166][725]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.44.49:166][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.44.49:173][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.06-22.44.49:180][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.44.49:218][725]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.06-22.44.49:218][725]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.10.06-22.44.49:218][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.10.06-22.44.49:220][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.10.06-22.44.49:226][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.06-22.44.49:230][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.10.06-22.44.49:342][726]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.10.06-22.44.52:269][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.10.06-22.44.52:322][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.10.06-22.44.55:585][871]LogSlate: Window 'Save Content' being destroyed
+[2023.10.06-22.44.55:607][871]LogStall: Shutdown...
+[2023.10.06-22.44.55:614][871]LogStall: Shutdown complete.
+[2023.10.06-22.44.55:996][871]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.44.55:996][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.44.56:411][871]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.44.56:411][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.44.56:421][871]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.44.56:421][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.44.56:724][871]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.44.56:724][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.44.56:732][871]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.44.56:733][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.44.56:863][871]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.06-22.44.56:863][871]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.44.56:863][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.44.57:058][871]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.44.57:059][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.44.57:068][871]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.44.57:068][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.44.57:255][871]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.44.57:255][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.44.57:264][871]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.44.57:264][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.44.57:358][871]LogSlate: Window 'VolcanewtProject - Unreal Editor' being destroyed
+[2023.10.06-22.44.57:758][872]LogAutomationController: Ignoring very large delta of 5.54 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.06-22.44.57:762][872]Cmd: QUIT_EDITOR
+[2023.10.06-22.44.57:762][872]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.10.06-22.44.57:788][872]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.10.06-22.44.57:789][872]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.10.06-22.44.57:789][872]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.10.06-22.44.57:811][872]LogWorld: UWorld::CleanupWorld for PrototypeTest_Level, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.44.57:812][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.44.57:823][872]LogWorld: UWorld::CleanupWorld for PrototypeTest_Level_Auto9, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.44.57:824][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.44.57:834][872]LogWorld: UWorld::CleanupWorld for PrototypeTest_Level_Auto2, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.44.57:835][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.44.57:847][872]LogWorld: UWorld::CleanupWorld for PrototypeTest_Level_Auto8, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.44.57:848][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.06-22.44.57:858][872]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.10.06-22.44.57:865][872]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.10.06-22.44.58:391][872]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.10.06-22.44.58:391][872]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.10.06-22.44.58:392][872]LogAudio: Display: Audio Device unregistered from world 'PrototypeTest_Level'.
+[2023.10.06-22.44.58:392][872]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.10.06-22.44.58:392][872]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.10.06-22.44.58:397][872]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.10.06-22.44.58:409][872]LogAudio: Display: Audio Device Manager Shutdown
+[2023.10.06-22.44.58:419][872]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.10.06-22.44.58:422][872]LogExit: Preparing to exit.
+[2023.10.06-22.44.58:506][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.10.06-22.44.58:550][872]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.06-22.44.58:550][872]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.06-22.44.58:561][872]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.06-22.44.58:563][872]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.06-22.44.58:564][872]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.06-22.44.58:564][872]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.06-22.44.58:564][872]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.06-22.44.58:564][872]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.06-22.44.58:564][872]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.06-22.44.58:564][872]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.06-22.44.58:564][872]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.06-22.44.58:564][872]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.06-22.44.58:564][872]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.06-22.44.58:564][872]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.06-22.44.58:564][872]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.06-22.44.58:564][872]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.06-22.44.58:564][872]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.06-22.44.58:564][872]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.06-22.44.58:565][872]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.06-22.44.58:984][872]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.44.58:989][872]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.44.58:993][872]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.44.58:996][872]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.44.58:999][872]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.44.59:002][872]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.44.59:006][872]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.44.59:009][872]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.10.06-22.44.59:227][872]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.10.06-22.44.59:299][872]LogExit: Editor shut down
+[2023.10.06-22.44.59:315][872]LogExit: Transaction tracking system shut down
+[2023.10.06-22.45.00:391][872]LogExit: Object subsystem successfully closed.
+[2023.10.06-22.45.00:405][872]LogShaderCompilers: Display: ================================================
+[2023.10.06-22.45.00:405][872]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.06-22.45.00:405][872]LogShaderCompilers: Display: Total job queries 49, among them cache hits 7 (14.29%)
+[2023.10.06-22.45.00:405][872]LogShaderCompilers: Display: Tracking 42 distinct input hashes that result in 31 distinct outputs (73.81%)
+[2023.10.06-22.45.00:405][872]LogShaderCompilers: Display: RAM used: 101.86 KiB of 819.20 MiB budget. Usage: 0.01%
+[2023.10.06-22.45.00:405][872]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.06-22.45.00:405][872]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.06-22.45.00:405][872]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.10.06-22.45.00:405][872]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.06-22.45.00:405][872]LogShaderCompilers: Display: ================================================
+[2023.10.06-22.45.00:444][872]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.10.06-22.45.00:563][872]LogVirtualization: UE::Virtualization was shutdown
+[2023.10.06-22.45.00:772][872]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (1037)
+[2023.10.06-22.45.00:772][872]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1035)
+[2023.10.06-22.45.00:772][872]LogModuleManager: Shutting down and abandoning module Voice (1033)
+[2023.10.06-22.45.00:772][872]LogModuleManager: Shutting down and abandoning module SequencerWidgets (1031)
+[2023.10.06-22.45.00:772][872]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1029)
+[2023.10.06-22.45.00:772][872]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1027)
+[2023.10.06-22.45.00:772][872]LogModuleManager: Shutting down and abandoning module SceneOutliner (1023)
+[2023.10.06-22.45.00:773][872]LogModuleManager: Shutting down and abandoning module AddContentDialog (1021)
+[2023.10.06-22.45.00:782][872]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1020)
+[2023.10.06-22.45.00:783][872]LogModuleManager: Shutting down and abandoning module StatusBar (1017)
+[2023.10.06-22.45.00:783][872]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1015)
+[2023.10.06-22.45.00:783][872]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1013)
+[2023.10.06-22.45.00:783][872]LogModuleManager: Shutting down and abandoning module StatsViewer (1011)
+[2023.10.06-22.45.00:783][872]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1009)
+[2023.10.06-22.45.00:783][872]LogModuleManager: Shutting down and abandoning module AutomationWorker (1007)
+[2023.10.06-22.45.00:783][872]LogModuleManager: Shutting down and abandoning module SmartSnapping (1005)
+[2023.10.06-22.45.00:784][872]LogModuleManager: Shutting down and abandoning module PlanarCut (1003)
+[2023.10.06-22.45.00:784][872]LogModuleManager: Shutting down and abandoning module FractureEngine (1001)
+[2023.10.06-22.45.00:784][872]LogModuleManager: Shutting down and abandoning module CharacterAI (999)
+[2023.10.06-22.45.00:784][872]LogModuleManager: Shutting down and abandoning module WaveTableEditor (997)
+[2023.10.06-22.45.00:784][872]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (995)
+[2023.10.06-22.45.00:784][872]LogModuleManager: Shutting down and abandoning module GooglePADEditor (993)
+[2023.10.06-22.45.00:784][872]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (991)
+[2023.10.06-22.45.00:784][872]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (989)
+[2023.10.06-22.45.00:784][872]LogModuleManager: Shutting down and abandoning module TextureAlignMode (987)
+[2023.10.06-22.45.00:785][872]LogModuleManager: Shutting down and abandoning module BspMode (985)
+[2023.10.06-22.45.00:785][872]LogModuleManager: Shutting down and abandoning module GeometryMode (983)
+[2023.10.06-22.45.00:786][872]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (981)
+[2023.10.06-22.45.00:786][872]LogModuleManager: Shutting down and abandoning module IKRigEditor (979)
+[2023.10.06-22.45.00:787][872]LogModuleManager: Shutting down and abandoning module ControlRigEditor (977)
+[2023.10.06-22.45.00:789][872]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (975)
+[2023.10.06-22.45.00:789][872]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (973)
+[2023.10.06-22.45.00:791][872]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (971)
+[2023.10.06-22.45.00:792][872]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (969)
+[2023.10.06-22.45.00:792][872]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (967)
+[2023.10.06-22.45.00:792][872]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (965)
+[2023.10.06-22.45.00:792][872]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (963)
+[2023.10.06-22.45.00:792][872]LogModuleManager: Shutting down and abandoning module WebMMedia (961)
+[2023.10.06-22.45.00:792][872]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (959)
+[2023.10.06-22.45.00:793][872]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (957)
+[2023.10.06-22.45.00:794][872]LogModuleManager: Shutting down and abandoning module SequenceRecorder (956)
+[2023.10.06-22.45.00:794][872]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (953)
+[2023.10.06-22.45.00:794][872]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (951)
+[2023.10.06-22.45.00:794][872]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (949)
+[2023.10.06-22.45.00:795][872]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (947)
+[2023.10.06-22.45.00:795][872]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (945)
+[2023.10.06-22.45.00:795][872]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (943)
+[2023.10.06-22.45.00:795][872]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (941)
+[2023.10.06-22.45.00:795][872]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (939)
+[2023.10.06-22.45.00:796][872]LogModuleManager: Shutting down and abandoning module SessionServices (937)
+[2023.10.06-22.45.00:797][872]LogModuleManager: Shutting down and abandoning module MeshPaint (935)
+[2023.10.06-22.45.00:798][872]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (933)
+[2023.10.06-22.45.00:798][872]LogModuleManager: Shutting down and abandoning module PlacementMode (932)
+[2023.10.06-22.45.00:799][872]LogModuleManager: Shutting down and abandoning module FoliageEdit (929)
+[2023.10.06-22.45.00:799][872]LogModuleManager: Shutting down and abandoning module LandscapeEditor (927)
+[2023.10.06-22.45.00:802][872]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (925)
+[2023.10.06-22.45.00:802][872]LogModuleManager: Shutting down and abandoning module ActorPickerMode (923)
+[2023.10.06-22.45.00:802][872]LogModuleManager: Shutting down and abandoning module ViewportSnapping (921)
+[2023.10.06-22.45.00:802][872]LogModuleManager: Shutting down and abandoning module ViewportInteraction (919)
+[2023.10.06-22.45.00:802][872]LogModuleManager: Shutting down and abandoning module ClothPainter (917)
+[2023.10.06-22.45.00:803][872]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (916)
+[2023.10.06-22.45.00:804][872]LogModuleManager: Shutting down and abandoning module LogVisualizer (913)
+[2023.10.06-22.45.00:806][872]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (911)
+[2023.10.06-22.45.00:806][872]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (909)
+[2023.10.06-22.45.00:806][872]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (908)
+[2023.10.06-22.45.00:807][872]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (906)
+[2023.10.06-22.45.01:771][872]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (903)
+[2023.10.06-22.45.01:771][872]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (901)
+[2023.10.06-22.45.01:771][872]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (899)
+[2023.10.06-22.45.01:771][872]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (897)
+[2023.10.06-22.45.01:771][872]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (895)
+[2023.10.06-22.45.01:772][872]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (893)
+[2023.10.06-22.45.01:772][872]LogModuleManager: Shutting down and abandoning module AnimationSettings (891)
+[2023.10.06-22.45.01:772][872]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (889)
+[2023.10.06-22.45.01:772][872]LogModuleManager: Shutting down and abandoning module CSVtoSVG (887)
+[2023.10.06-22.45.01:772][872]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (885)
+[2023.10.06-22.45.01:772][872]LogModuleManager: Shutting down and abandoning module EditorConfig (883)
+[2023.10.06-22.45.01:772][872]LogModuleManager: Shutting down and abandoning module EditorFramework (881)
+[2023.10.06-22.45.01:772][872]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (879)
+[2023.10.06-22.45.01:773][872]LogModuleManager: Shutting down and abandoning module TraceInsights (877)
+[2023.10.06-22.45.01:778][872]MemoryProfiler: Shutdown
+[2023.10.06-22.45.01:778][872]NetworkingProfiler: Shutdown
+[2023.10.06-22.45.01:778][872]LoadingProfiler: Shutdown
+[2023.10.06-22.45.01:779][872]TimingProfiler: Shutdown
+[2023.10.06-22.45.01:782][872]LogModuleManager: Shutting down and abandoning module TraceServices (876)
+[2023.10.06-22.45.01:783][872]LogModuleManager: Shutting down and abandoning module TraceAnalysis (875)
+[2023.10.06-22.45.01:783][872]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (871)
+[2023.10.06-22.45.01:783][872]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (870)
+[2023.10.06-22.45.01:783][872]LogModuleManager: Shutting down and abandoning module InputBindingEditor (867)
+[2023.10.06-22.45.01:783][872]LogModuleManager: Shutting down and abandoning module MergeActors (865)
+[2023.10.06-22.45.01:784][872]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (863)
+[2023.10.06-22.45.01:785][872]LogModuleManager: Shutting down and abandoning module LocalizationService (862)
+[2023.10.06-22.45.01:785][872]LogModuleManager: Shutting down and abandoning module HardwareTargeting (859)
+[2023.10.06-22.45.01:785][872]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (857)
+[2023.10.06-22.45.01:785][872]LogModuleManager: Shutting down and abandoning module UndoHistory (855)
+[2023.10.06-22.45.01:785][872]LogModuleManager: Shutting down and abandoning module XmlParser (853)
+[2023.10.06-22.45.01:785][872]LogModuleManager: Shutting down and abandoning module Blutility (851)
+[2023.10.06-22.45.01:785][872]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (849)
+[2023.10.06-22.45.01:786][872]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (848)
+[2023.10.06-22.45.01:786][872]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (845)
+[2023.10.06-22.45.01:787][872]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (844)
+[2023.10.06-22.45.01:787][872]LogModuleManager: Shutting down and abandoning module SettingsEditor (841)
+[2023.10.06-22.45.01:787][872]LogModuleManager: Shutting down and abandoning module ProjectLauncher (839)
+[2023.10.06-22.45.01:787][872]LogModuleManager: Shutting down and abandoning module SessionFrontend (837)
+[2023.10.06-22.45.01:788][872]LogModuleManager: Shutting down and abandoning module ProfilerClient (835)
+[2023.10.06-22.45.01:788][872]LogModuleManager: Shutting down and abandoning module DeviceManager (833)
+[2023.10.06-22.45.01:788][872]LogModuleManager: Shutting down and abandoning module AutomationController (831)
+[2023.10.06-22.45.01:789][872]LogModuleManager: Shutting down and abandoning module AutomationWindow (829)
+[2023.10.06-22.45.01:790][872]LogModuleManager: Shutting down and abandoning module Layers (827)
+[2023.10.06-22.45.01:791][872]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (825)
+[2023.10.06-22.45.01:791][872]LogModuleManager: Shutting down and abandoning module DetailCustomizations (823)
+[2023.10.06-22.45.01:792][872]LogModuleManager: Shutting down and abandoning module PackagesDialog (821)
+[2023.10.06-22.45.01:792][872]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (819)
+[2023.10.06-22.45.01:793][872]LogModuleManager: Shutting down and abandoning module Persona (817)
+[2023.10.06-22.45.01:794][872]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (816)
+[2023.10.06-22.45.01:794][872]LogModuleManager: Shutting down and abandoning module Kismet (813)
+[2023.10.06-22.45.01:808][872]LogModuleManager: Shutting down and abandoning module KismetWidgets (812)
+[2023.10.06-22.45.01:808][872]LogModuleManager: Shutting down and abandoning module GraphEditor (809)
+[2023.10.06-22.45.01:808][872]LogModuleManager: Shutting down and abandoning module StructViewer (807)
+[2023.10.06-22.45.01:808][872]LogModuleManager: Shutting down and abandoning module ClassViewer (805)
+[2023.10.06-22.45.01:810][872]LogModuleManager: Shutting down and abandoning module NaniteTools (803)
+[2023.10.06-22.45.01:810][872]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (801)
+[2023.10.06-22.45.01:811][872]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (799)
+[2023.10.06-22.45.01:812][872]LogModuleManager: Shutting down and abandoning module SourceControlWindows (797)
+[2023.10.06-22.45.01:812][872]LogModuleManager: Shutting down and abandoning module OutputLog (795)
+[2023.10.06-22.45.01:813][872]LogModuleManager: Shutting down and abandoning module Documentation (793)
+[2023.10.06-22.45.01:817][872]LogModuleManager: Shutting down and abandoning module LiveCoding (791)
+[2023.10.06-22.45.01:832][872]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (789)
+[2023.10.06-22.45.01:832][872]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (787)
+[2023.10.06-22.45.01:832][872]LogModuleManager: Shutting down and abandoning module MovieScene (785)
+[2023.10.06-22.45.01:833][872]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (783)
+[2023.10.06-22.45.01:833][872]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (781)
+[2023.10.06-22.45.01:833][872]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (779)
+[2023.10.06-22.45.01:833][872]LogModuleManager: Shutting down and abandoning module AudioMixer (778)
+[2023.10.06-22.45.01:833][872]LogModuleManager: Shutting down and abandoning module AudioMixerCore (777)
+[2023.10.06-22.45.01:833][872]LogModuleManager: Shutting down and abandoning module LauncherPlatform (773)
+[2023.10.06-22.45.01:833][872]LogModuleManager: Shutting down and abandoning module AnalyticsET (771)
+[2023.10.06-22.45.01:833][872]LogModuleManager: Shutting down and abandoning module PortalServices (769)
+[2023.10.06-22.45.01:833][872]LogModuleManager: Shutting down and abandoning module PortalRpc (767)
+[2023.10.06-22.45.01:833][872]LogModuleManager: Shutting down and abandoning module MessagingRpc (765)
+[2023.10.06-22.45.01:833][872]LogModuleManager: Shutting down and abandoning module AIModule (763)
+[2023.10.06-22.45.01:833][872]LogModuleManager: Shutting down and abandoning module GameplayDebugger (762)
+[2023.10.06-22.45.01:833][872]LogModuleManager: Shutting down and abandoning module AITestSuite (760)
+[2023.10.06-22.45.01:834][872]LogModuleManager: Shutting down and abandoning module NavigationSystem (758)
+[2023.10.06-22.45.01:834][872]LogModuleManager: Shutting down and abandoning module DataLayerEditor (755)
+[2023.10.06-22.45.01:834][872]LogModuleManager: Shutting down and abandoning module EditorWidgets (754)
+[2023.10.06-22.45.01:834][872]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (751)
+[2023.10.06-22.45.01:834][872]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (749)
+[2023.10.06-22.45.01:834][872]LogModuleManager: Shutting down and abandoning module TypedElementFramework (747)
+[2023.10.06-22.45.01:834][872]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (745)
+[2023.10.06-22.45.01:834][872]LogModuleManager: Shutting down and abandoning module ProfilerService (743)
+[2023.10.06-22.45.02:061][872]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (741)
+[2023.10.06-22.45.02:062][872]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (739)
+[2023.10.06-22.45.02:062][872]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (737)
+[2023.10.06-22.45.02:062][872]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (735)
+[2023.10.06-22.45.02:062][872]LogModuleManager: Shutting down and abandoning module TakesCore (733)
+[2023.10.06-22.45.02:062][872]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (731)
+[2023.10.06-22.45.02:062][872]LogModuleManager: Shutting down and abandoning module MegascansPlugin (729)
+[2023.10.06-22.45.02:063][872]LogModuleManager: Shutting down and abandoning module Bridge (727)
+[2023.10.06-22.45.02:063][872]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (725)
+[2023.10.06-22.45.02:064][872]LogModuleManager: Shutting down and abandoning module LightMixer (723)
+[2023.10.06-22.45.02:064][872]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (721)
+[2023.10.06-22.45.02:064][872]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (719)
+[2023.10.06-22.45.02:064][872]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (717)
+[2023.10.06-22.45.02:064][872]LogModuleManager: Shutting down and abandoning module CollectionManager (716)
+[2023.10.06-22.45.02:065][872]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (713)
+[2023.10.06-22.45.02:066][872]LogModuleManager: Shutting down and abandoning module VariantManager (711)
+[2023.10.06-22.45.02:068][872]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (710)
+[2023.10.06-22.45.02:068][872]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (707)
+[2023.10.06-22.45.02:068][872]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (705)
+[2023.10.06-22.45.02:068][872]LogModuleManager: Shutting down and abandoning module Paper2DEditor (703)
+[2023.10.06-22.45.02:070][872]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (701)
+[2023.10.06-22.45.02:070][872]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (699)
+[2023.10.06-22.45.02:070][872]LogModuleManager: Shutting down and abandoning module UObjectPlugin (697)
+[2023.10.06-22.45.02:070][872]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (695)
+[2023.10.06-22.45.02:071][872]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (693)
+[2023.10.06-22.45.02:071][872]LogModuleManager: Shutting down and abandoning module PluginUtils (691)
+[2023.10.06-22.45.02:071][872]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (689)
+[2023.10.06-22.45.02:071][872]LogModuleManager: Shutting down and abandoning module GitSourceControl (687)
+[2023.10.06-22.45.02:071][872]LogModuleManager: Shutting down and abandoning module DumpGPUServices (685)
+[2023.10.06-22.45.02:072][872]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (683)
+[2023.10.06-22.45.02:072][872]LogModuleManager: Shutting down and abandoning module TakeSequencer (681)
+[2023.10.06-22.45.02:072][872]LogModuleManager: Shutting down and abandoning module TakeMovieScene (679)
+[2023.10.06-22.45.02:072][872]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (677)
+[2023.10.06-22.45.02:072][872]LogModuleManager: Shutting down and abandoning module UVEditorTools (675)
+[2023.10.06-22.45.02:072][872]LogModuleManager: Shutting down and abandoning module UVEditor (673)
+[2023.10.06-22.45.02:072][872]LogModuleManager: Shutting down and abandoning module PresetAsset (671)
+[2023.10.06-22.45.02:072][872]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (669)
+[2023.10.06-22.45.02:072][872]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (667)
+[2023.10.06-22.45.02:072][872]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (665)
+[2023.10.06-22.45.02:072][872]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (663)
+[2023.10.06-22.45.02:072][872]LogOpenImageDenoise: OIDN shutting down
+[2023.10.06-22.45.02:072][872]LogModuleManager: Shutting down and abandoning module PCGEditor (661)
+[2023.10.06-22.45.02:074][872]LogModuleManager: Shutting down and abandoning module PCG (659)
+[2023.10.06-22.45.02:074][872]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (657)
+[2023.10.06-22.45.02:075][872]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (655)
+[2023.10.06-22.45.02:075][872]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (653)
+[2023.10.06-22.45.02:076][872]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (651)
+[2023.10.06-22.45.02:076][872]LogModuleManager: Shutting down and abandoning module MeshLODToolset (649)
+[2023.10.06-22.45.02:076][872]LogModuleManager: Shutting down and abandoning module GeometryScriptingEditor (647)
+[2023.10.06-22.45.02:076][872]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (645)
+[2023.10.06-22.45.02:077][872]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (643)
+[2023.10.06-22.45.02:077][872]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (642)
+[2023.10.06-22.45.02:077][872]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (640)
+[2023.10.06-22.45.02:077][872]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (637)
+[2023.10.06-22.45.02:077][872]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (635)
+[2023.10.06-22.45.02:077][872]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (633)
+[2023.10.06-22.45.02:077][872]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (631)
+[2023.10.06-22.45.02:077][872]LogModuleManager: Shutting down and abandoning module DataflowNodes (629)
+[2023.10.06-22.45.02:077][872]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (627)
+[2023.10.06-22.45.02:077][872]LogModuleManager: Shutting down and abandoning module DataflowEditor (625)
+[2023.10.06-22.45.02:077][872]LogModuleManager: Shutting down and abandoning module FractureEditor (623)
+[2023.10.06-22.45.02:078][872]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (621)
+[2023.10.06-22.45.02:079][872]LogModuleManager: Shutting down and abandoning module ChaosNiagara (619)
+[2023.10.06-22.45.02:079][872]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (617)
+[2023.10.06-22.45.02:079][872]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (615)
+[2023.10.06-22.45.02:079][872]LogModuleManager: Shutting down and abandoning module BackChannel (613)
+[2023.10.06-22.45.02:079][872]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (611)
+[2023.10.06-22.45.02:079][872]LogModuleManager: Shutting down and abandoning module AutomationUtils (609)
+[2023.10.06-22.45.02:079][872]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (607)
+[2023.10.06-22.45.02:079][872]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (605)
+[2023.10.06-22.45.02:079][872]LogModuleManager: Shutting down and abandoning module InterchangeTests (603)
+[2023.10.06-22.45.02:079][872]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (599)
+[2023.10.06-22.45.02:080][872]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (597)
+[2023.10.06-22.45.02:080][872]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (595)
+[2023.10.06-22.45.02:080][872]LogModuleManager: Shutting down and abandoning module InterchangePipelines (593)
+[2023.10.06-22.45.02:080][872]LogModuleManager: Shutting down and abandoning module InterchangeExport (591)
+[2023.10.06-22.45.02:080][872]LogModuleManager: Shutting down and abandoning module InterchangeMessages (589)
+[2023.10.06-22.45.02:080][872]LogModuleManager: Shutting down and abandoning module InterchangeImport (587)
+[2023.10.06-22.45.02:080][872]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (585)
+[2023.10.06-22.45.02:080][872]LogModuleManager: Shutting down and abandoning module InterchangeNodes (583)
+[2023.10.06-22.45.02:080][872]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (581)
+[2023.10.06-22.45.02:080][872]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (579)
+[2023.10.06-22.45.02:080][872]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (577)
+[2023.10.06-22.45.02:081][872]LogModuleManager: Shutting down and abandoning module InterchangeEditor (575)
+[2023.10.06-22.45.02:081][872]LogModuleManager: Shutting down and abandoning module SynthesisEditor (573)
+[2023.10.06-22.45.02:081][872]LogModuleManager: Shutting down and abandoning module ResonanceAudio (571)
+[2023.10.06-22.45.02:081][872]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (569)
+[2023.10.06-22.45.02:081][872]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (567)
+[2023.10.06-22.45.02:081][872]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (565)
+[2023.10.06-22.45.02:081][872]LogModuleManager: Shutting down and abandoning module ModelingOperators (563)
+[2023.10.06-22.45.02:081][872]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (561)
+[2023.10.06-22.45.02:081][872]LogModuleManager: Shutting down and abandoning module ModelingComponents (559)
+[2023.10.06-22.45.02:082][872]LogModuleManager: Shutting down and abandoning module GeometryFramework (558)
+[2023.10.06-22.45.02:082][872]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (555)
+[2023.10.06-22.45.02:082][872]LogModuleManager: Shutting down and abandoning module MeshModelingTools (553)
+[2023.10.06-22.45.02:082][872]LogModuleManager: Shutting down and abandoning module GooglePAD (551)
+[2023.10.06-22.45.02:082][872]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (549)
+[2023.10.06-22.45.02:082][872]LogModuleManager: Shutting down and abandoning module InputDebugging (547)
+[2023.10.06-22.45.02:082][872]LogModuleManager: Shutting down and abandoning module DynamicMesh (545)
+[2023.10.06-22.45.02:083][872]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (543)
+[2023.10.06-22.45.02:083][872]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (541)
+[2023.10.06-22.45.02:083][872]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (539)
+[2023.10.06-22.45.02:083][872]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (537)
+[2023.10.06-22.45.02:083][872]LogModuleManager: Shutting down and abandoning module AudioCapture (535)
+[2023.10.06-22.45.02:083][872]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (534)
+[2023.10.06-22.45.02:083][872]LogModuleManager: Shutting down and abandoning module AssetTags (531)
+[2023.10.06-22.45.02:083][872]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (529)
+[2023.10.06-22.45.02:083][872]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (527)
+[2023.10.06-22.45.02:083][872]LogModuleManager: Shutting down and abandoning module AppleImageUtils (525)
+[2023.10.06-22.45.02:083][872]LogModuleManager: Shutting down and abandoning module AndroidPermission (523)
+[2023.10.06-22.45.02:083][872]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (521)
+[2023.10.06-22.45.02:083][872]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (519)
+[2023.10.06-22.45.02:083][872]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (517)
+[2023.10.06-22.45.02:083][872]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (515)
+[2023.10.06-22.45.02:084][872]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (513)
+[2023.10.06-22.45.02:084][872]LogModuleManager: Shutting down and abandoning module StylusInput (511)
+[2023.10.06-22.45.02:084][872]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (509)
+[2023.10.06-22.45.02:084][872]LogModuleManager: Shutting down and abandoning module PluginBrowser (507)
+[2023.10.06-22.45.02:086][872]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (505)
+[2023.10.06-22.45.02:089][872]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (503)
+[2023.10.06-22.45.02:090][872]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (501)
+[2023.10.06-22.45.02:090][872]LogModuleManager: Shutting down and abandoning module GLTFImporter (499)
+[2023.10.06-22.45.02:090][872]LogModuleManager: Shutting down and abandoning module GLTFCore (497)
+[2023.10.06-22.45.02:090][872]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (495)
+[2023.10.06-22.45.02:090][872]LogModuleManager: Shutting down and abandoning module EditorDebugTools (493)
+[2023.10.06-22.45.02:091][872]LogModuleManager: Shutting down and abandoning module CurveEditorTools (491)
+[2023.10.06-22.45.02:091][872]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (489)
+[2023.10.06-22.45.02:091][872]LogModuleManager: Shutting down and abandoning module CryptoKeys (487)
+[2023.10.06-22.45.02:091][872]LogModuleManager: Shutting down and abandoning module ChangelistReview (485)
+[2023.10.06-22.45.02:091][872]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (483)
+[2023.10.06-22.45.02:091][872]LogModuleManager: Shutting down and abandoning module ControlRigSpline (481)
+[2023.10.06-22.45.02:091][872]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (479)
+[2023.10.06-22.45.02:091][872]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (477)
+[2023.10.06-22.45.02:091][872]LogModuleManager: Shutting down and abandoning module TemplateSequence (475)
+[2023.10.06-22.45.02:091][872]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (473)
+[2023.10.06-22.45.02:091][872]LogModuleManager: Shutting down and abandoning module SequencerScripting (471)
+[2023.10.06-22.45.02:091][872]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (469)
+[2023.10.06-22.45.02:091][872]LogModuleManager: Shutting down and abandoning module MediaPlate (467)
+[2023.10.06-22.45.02:091][872]LogModuleManager: Shutting down and abandoning module MediaCompositing (465)
+[2023.10.06-22.45.02:091][872]LogModuleManager: Shutting down and abandoning module ImgMedia (463)
+[2023.10.06-22.45.02:092][872]LogModuleManager: Shutting down and abandoning module AlembicImporter (461)
+[2023.10.06-22.45.02:092][872]LogModuleManager: Shutting down and abandoning module AlembicLibrary (460)
+[2023.10.06-22.45.02:092][872]LogModuleManager: Shutting down and abandoning module GeometryCache (459)
+[2023.10.06-22.45.02:092][872]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (458)
+[2023.10.06-22.45.02:092][872]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (453)
+[2023.10.06-22.45.02:092][872]LogModuleManager: Shutting down and abandoning module TraceUtilities (451)
+[2023.10.06-22.45.02:092][872]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (449)
+[2023.10.06-22.45.02:092][872]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (447)
+[2023.10.06-22.45.02:093][872]LogModuleManager: Shutting down and abandoning module InputEditor (445)
+[2023.10.06-22.45.02:093][872]LogModuleManager: Shutting down and abandoning module BlueprintGraph (444)
+[2023.10.06-22.45.02:093][872]LogModuleManager: Shutting down and abandoning module Paper2D (441)
+[2023.10.06-22.45.02:094][872]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (439)
+[2023.10.06-22.45.02:094][872]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (437)
+[2023.10.06-22.45.02:094][872]LogModuleManager: Shutting down and abandoning module AnimationSharing (435)
+[2023.10.06-22.45.02:094][872]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (433)
+[2023.10.06-22.45.02:095][872]LogModuleManager: Shutting down and abandoning module UdpMessaging (431)
+[2023.10.06-22.45.02:195][872]LogModuleManager: Shutting down and abandoning module TcpMessaging (429)
+[2023.10.06-22.45.02:297][872]LogModuleManager: Shutting down and abandoning module StructUtils (427)
+[2023.10.06-22.45.02:297][872]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (425)
+[2023.10.06-22.45.02:297][872]LogModuleManager: Shutting down and abandoning module GeometryScriptingCore (423)
+[2023.10.06-22.45.02:297][872]LogModuleManager: Shutting down and abandoning module PBIK (421)
+[2023.10.06-22.45.02:298][872]LogModuleManager: Shutting down and abandoning module FullBodyIK (419)
+[2023.10.06-22.45.02:298][872]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (417)
+[2023.10.06-22.45.02:298][872]LogModuleManager: Shutting down and abandoning module TakeRecorder (416)
+[2023.10.06-22.45.02:299][872]LogModuleManager: Shutting down and abandoning module ChaosCaching (413)
+[2023.10.06-22.45.02:299][872]LogModuleManager: Shutting down and abandoning module Synthesis (411)
+[2023.10.06-22.45.02:299][872]LogModuleManager: Shutting down and abandoning module SoundFields (409)
+[2023.10.06-22.45.02:299][872]LogModuleManager: Shutting down and abandoning module SignificanceManager (407)
+[2023.10.06-22.45.02:299][872]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (405)
+[2023.10.06-22.45.02:299][872]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (403)
+[2023.10.06-22.45.02:299][872]LogModuleManager: Shutting down and abandoning module MetasoundEditor (401)
+[2023.10.06-22.45.02:301][872]LogModuleManager: Shutting down and abandoning module AudioWidgets (400)
+[2023.10.06-22.45.02:301][872]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (399)
+[2023.10.06-22.45.02:303][872]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (395)
+[2023.10.06-22.45.02:303][872]LogModuleManager: Shutting down and abandoning module MetasoundEngine (393)
+[2023.10.06-22.45.02:303][872]LogModuleManager: Shutting down and abandoning module WaveTable (392)
+[2023.10.06-22.45.02:303][872]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (390)
+[2023.10.06-22.45.02:303][872]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (387)
+[2023.10.06-22.45.02:304][872]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (385)
+[2023.10.06-22.45.02:307][872]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (383)
+[2023.10.06-22.45.02:307][872]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (381)
+[2023.10.06-22.45.02:307][872]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (379)
+[2023.10.06-22.45.02:307][872]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (377)
+[2023.10.06-22.45.02:307][872]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (376)
+[2023.10.06-22.45.02:307][872]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (373)
+[2023.10.06-22.45.02:307][872]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (371)
+[2023.10.06-22.45.02:307][872]LogModuleManager: Shutting down and abandoning module CableComponent (369)
+[2023.10.06-22.45.02:307][872]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (367)
+[2023.10.06-22.45.02:307][872]LogModuleManager: Shutting down and abandoning module Niagara (365)
+[2023.10.06-22.45.02:308][872]LogModuleManager: Shutting down and abandoning module SignalProcessing (364)
+[2023.10.06-22.45.02:308][872]LogModuleManager: Shutting down and abandoning module NiagaraEditor (362)
+[2023.10.06-22.45.02:309][872]LogModuleManager: Shutting down and abandoning module NiagaraCore (359)
+[2023.10.06-22.45.02:309][872]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (357)
+[2023.10.06-22.45.02:309][872]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (355)
+[2023.10.06-22.45.02:309][872]LogModuleManager: Shutting down and abandoning module FacialAnimation (353)
+[2023.10.06-22.45.02:309][872]LogModuleManager: Shutting down and abandoning module DataValidation (351)
+[2023.10.06-22.45.02:309][872]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (349)
+[2023.10.06-22.45.02:310][872]LogModuleManager: Shutting down and abandoning module LevelEditor (348)
+[2023.10.06-22.45.02:332][872]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (347)
+[2023.10.06-22.45.02:333][872]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (345)
+[2023.10.06-22.45.02:334][872]LogModuleManager: Shutting down and abandoning module MainFrame (343)
+[2023.10.06-22.45.02:335][872]LogModuleManager: Shutting down and abandoning module HotReload (342)
+[2023.10.06-22.45.02:336][872]LogModuleManager: Shutting down and abandoning module ContentBrowser (338)
+[2023.10.06-22.45.02:336][872]LogModuleManager: Shutting down and abandoning module ToolMenus (337)
+[2023.10.06-22.45.02:336][872]LogModuleManager: Shutting down and abandoning module ContentBrowserData (335)
+[2023.10.06-22.45.02:336][872]LogModuleManager: Shutting down and abandoning module TreeMap (332)
+[2023.10.06-22.45.02:336][872]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (329)
+[2023.10.06-22.45.02:336][872]LogModuleManager: Shutting down and abandoning module IKRig (327)
+[2023.10.06-22.45.02:336][872]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (325)
+[2023.10.06-22.45.02:337][872]LogModuleManager: Shutting down and abandoning module ControlRig (323)
+[2023.10.06-22.45.02:337][872]LogModuleManager: Shutting down and abandoning module Constraints (322)
+[2023.10.06-22.45.02:351][872]LogModuleManager: Shutting down and abandoning module LevelSequence (320)
+[2023.10.06-22.45.02:351][872]LogModuleManager: Shutting down and abandoning module AnimationData (317)
+[2023.10.06-22.45.02:351][872]LogModuleManager: Shutting down and abandoning module ActorSequence (315)
+[2023.10.06-22.45.02:351][872]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (313)
+[2023.10.06-22.45.02:351][872]LogModuleManager: Shutting down and abandoning module GameplayCameras (311)
+[2023.10.06-22.45.02:351][872]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (309)
+[2023.10.06-22.45.02:351][872]LogModuleManager: Shutting down and abandoning module EnhancedInput (307)
+[2023.10.06-22.45.02:352][872]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (305)
+[2023.10.06-22.45.02:478][872]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (303)
+[2023.10.06-22.45.02:478][872]LogModuleManager: Shutting down and abandoning module AndroidFileServer (301)
+[2023.10.06-22.45.02:478][872]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (299)
+[2023.10.06-22.45.02:478][872]LogModuleManager: Shutting down and abandoning module PacketHandler (297)
+[2023.10.06-22.45.02:478][872]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (295)
+[2023.10.06-22.45.02:478][872]LogModuleManager: Shutting down and abandoning module AnimGraph (293)
+[2023.10.06-22.45.02:478][872]LogModuleManager: Shutting down and abandoning module TimeManagement (291)
+[2023.10.06-22.45.02:478][872]LogModuleManager: Shutting down and abandoning module AnimationDataController (289)
+[2023.10.06-22.45.02:478][872]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (287)
+[2023.10.06-22.45.02:478][872]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (285)
+[2023.10.06-22.45.02:478][872]LogModuleManager: Shutting down and abandoning module MediaAssets (283)
+[2023.10.06-22.45.02:478][872]LogModuleManager: Shutting down and abandoning module Overlay (281)
+[2023.10.06-22.45.02:478][872]LogModuleManager: Shutting down and abandoning module OverlayEditor (280)
+[2023.10.06-22.45.02:478][872]LogModuleManager: Shutting down and abandoning module VREditor (277)
+[2023.10.06-22.45.02:479][872]LogModuleManager: Shutting down and abandoning module StringTableEditor (275)
+[2023.10.06-22.45.02:481][872]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (273)
+[2023.10.06-22.45.02:481][872]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (271)
+[2023.10.06-22.45.02:481][872]LogModuleManager: Shutting down and abandoning module FunctionalTesting (269)
+[2023.10.06-22.45.02:481][872]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (267)
+[2023.10.06-22.45.02:482][872]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (266)
+[2023.10.06-22.45.02:485][872]LogModuleManager: Shutting down and abandoning module UMG (263)
+[2023.10.06-22.45.02:485][872]LogModuleManager: Shutting down and abandoning module UMGEditor (262)
+[2023.10.06-22.45.02:485][872]LogModuleManager: Shutting down and abandoning module EditorStyle (257)
+[2023.10.06-22.45.02:485][872]LogModuleManager: Shutting down and abandoning module SlateReflector (255)
+[2023.10.06-22.45.02:488][872]LogModuleManager: Shutting down and abandoning module Slate (253)
+[2023.10.06-22.45.02:488][872]LogModuleManager: Shutting down and abandoning module SlateCore (251)
+[2023.10.06-22.45.02:489][872]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (249)
+[2023.10.06-22.45.02:489][872]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (247)
+[2023.10.06-22.45.02:489][872]LogModuleManager: Shutting down and abandoning module UnrealEd (245)
+[2023.10.06-22.45.02:489][872]LogModuleManager: Shutting down and abandoning module MRMesh (243)
+[2023.10.06-22.45.02:489][872]LogModuleManager: Shutting down and abandoning module Messaging (241)
+[2023.10.06-22.45.02:489][872]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (239)
+[2023.10.06-22.45.02:489][872]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (237)
+[2023.10.06-22.45.02:489][872]LogModuleManager: Shutting down and abandoning module Networking (235)
+[2023.10.06-22.45.02:489][872]LogModuleManager: Shutting down and abandoning module Core (233)
+[2023.10.06-22.45.02:490][872]LogModuleManager: Shutting down and abandoning module AssetDefinition (231)
+[2023.10.06-22.45.02:490][872]LogModuleManager: Shutting down and abandoning module MovieSceneTools (229)
+[2023.10.06-22.45.02:491][872]LogModuleManager: Shutting down and abandoning module CurveEditor (228)
+[2023.10.06-22.45.02:491][872]LogModuleManager: Shutting down and abandoning module Sequencer (226)
+[2023.10.06-22.45.02:491][872]LogModuleManager: Shutting down and abandoning module KismetCompiler (223)
+[2023.10.06-22.45.02:491][872]LogModuleManager: Shutting down and abandoning module MeshBuilder (221)
+[2023.10.06-22.45.02:491][872]LogModuleManager: Shutting down and abandoning module NaniteBuilder (219)
+[2023.10.06-22.45.02:491][872]LogModuleManager: Shutting down and abandoning module MeshUtilities (217)
+[2023.10.06-22.45.02:492][872]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (216)
+[2023.10.06-22.45.02:492][872]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (215)
+[2023.10.06-22.45.02:492][872]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (214)
+[2023.10.06-22.45.02:492][872]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (212)
+[2023.10.06-22.45.02:493][872]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (210)
+[2023.10.06-22.45.02:495][872]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (208)
+[2023.10.06-22.45.02:495][872]LogModuleManager: Shutting down and abandoning module MaterialBaking (204)
+[2023.10.06-22.45.02:495][872]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (201)
+[2023.10.06-22.45.02:507][872]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (197)
+[2023.10.06-22.45.02:507][872]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (195)
+[2023.10.06-22.45.02:507][872]LogModuleManager: Shutting down and abandoning module DerivedDataCache (193)
+[2023.10.06-22.45.02:527][872]LogModuleManager: Shutting down and abandoning module TargetPlatform (191)
+[2023.10.06-22.45.02:527][872]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (190)
+[2023.10.06-22.45.02:527][872]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (188)
+[2023.10.06-22.45.02:528][872]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (186)
+[2023.10.06-22.45.02:529][872]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (184)
+[2023.10.06-22.45.02:529][872]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (182)
+[2023.10.06-22.45.02:529][872]LogModuleManager: Shutting down and abandoning module AudioFormatBink (180)
+[2023.10.06-22.45.02:530][872]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (177)
+[2023.10.06-22.45.02:530][872]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (175)
+[2023.10.06-22.45.02:530][872]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (173)
+[2023.10.06-22.45.02:530][872]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (171)
+[2023.10.06-22.45.02:530][872]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2023.10.06-22.45.02:531][872]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (167)
+[2023.10.06-22.45.02:531][872]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (165)
+[2023.10.06-22.45.02:531][872]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (163)
+[2023.10.06-22.45.02:531][872]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (161)
+[2023.10.06-22.45.02:532][872]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (159)
+[2023.10.06-22.45.02:532][872]LogModuleManager: Shutting down and abandoning module TextureFormat (157)
+[2023.10.06-22.45.02:532][872]LogModuleManager: Shutting down and abandoning module ImageWrapper (156)
+[2023.10.06-22.45.02:532][872]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (154)
+[2023.10.06-22.45.02:534][872]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (152)
+[2023.10.06-22.45.02:534][872]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (150)
+[2023.10.06-22.45.02:534][872]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (148)
+[2023.10.06-22.45.02:534][872]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (146)
+[2023.10.06-22.45.02:534][872]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (144)
+[2023.10.06-22.45.02:534][872]LogModuleManager: Shutting down and abandoning module TurnkeySupport (141)
+[2023.10.06-22.45.02:535][872]LogModuleManager: Shutting down and abandoning module InputCore (138)
+[2023.10.06-22.45.02:535][872]LogModuleManager: Shutting down and abandoning module Settings (136)
+[2023.10.06-22.45.02:535][872]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (134)
+[2023.10.06-22.45.02:538][872]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (132)
+[2023.10.06-22.45.02:538][872]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (131)
+[2023.10.06-22.45.02:538][872]LogModuleManager: Shutting down and abandoning module Chaos (128)
+[2023.10.06-22.45.02:538][872]LogModuleManager: Shutting down and abandoning module GeometryCore (127)
+[2023.10.06-22.45.02:538][872]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (124)
+[2023.10.06-22.45.02:538][872]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (123)
+[2023.10.06-22.45.02:539][872]LogModuleManager: Shutting down and abandoning module AVEncoder (122)
+[2023.10.06-22.45.02:539][872]LogModuleManager: Shutting down and abandoning module D3D12RHI (118)
+[2023.10.06-22.45.02:539][872]LogModuleManager: Shutting down and abandoning module DatasmithContent (116)
+[2023.10.06-22.45.02:539][872]LogModuleManager: Shutting down and abandoning module VariantManagerContent (114)
+[2023.10.06-22.45.02:539][872]LogModuleManager: Shutting down and abandoning module GLTFExporter (112)
+[2023.10.06-22.45.02:539][872]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (110)
+[2023.10.06-22.45.02:540][872]RenderDocPlugin: plugin has been unloaded.
+[2023.10.06-22.45.02:540][872]LogModuleManager: Shutting down and abandoning module PixWinPlugin (108)
+[2023.10.06-22.45.02:540][872]LogModuleManager: Shutting down and abandoning module AISupportModule (106)
+[2023.10.06-22.45.02:540][872]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (104)
+[2023.10.06-22.45.02:540][872]LogModuleManager: Shutting down and abandoning module ChaosCloth (102)
+[2023.10.06-22.45.02:540][872]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (100)
+[2023.10.06-22.45.02:540][872]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (98)
+[2023.10.06-22.45.02:540][872]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (96)
+[2023.10.06-22.45.02:543][872]LogModuleManager: Shutting down and abandoning module XMPP (91)
+[2023.10.06-22.45.02:543][872]LogModuleManager: Shutting down and abandoning module WebSockets (90)
+[2023.10.06-22.45.02:576][872]LogModuleManager: Shutting down and abandoning module HTTP (87)
+[2023.10.06-22.45.02:576][872]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2023.10.06-22.45.02:576][872]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6AD49559-4AFB-8747-A0D0-84BA4A79F38F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=0d3110e14ac59bc5210c909fd05f3d0a%7C55257dafa56748b89977d018e641dac3%7Cdea14208-d54a-45db-8084-6ffa5428dfee&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.10.06-22.45.02:589][872]LogModuleManager: Shutting down and abandoning module SSL (86)
+[2023.10.06-22.45.02:595][872]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (82)
+[2023.10.06-22.45.02:596][872]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (80)
+[2023.10.06-22.45.02:596][872]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (78)
+[2023.10.06-22.45.02:596][872]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (76)
+[2023.10.06-22.45.02:596][872]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2023.10.06-22.45.02:596][872]LogModuleManager: Shutting down and abandoning module ChunkDownloader (72)
+[2023.10.06-22.45.02:597][872]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (70)
+[2023.10.06-22.45.02:597][872]LogModuleManager: Shutting down and abandoning module NiagaraShader (68)
+[2023.10.06-22.45.02:597][872]LogModuleManager: Shutting down and abandoning module WmfMedia (66)
+[2023.10.06-22.45.02:601][872]LogModuleManager: Shutting down and abandoning module Media (65)
+[2023.10.06-22.45.02:604][872]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (62)
+[2023.10.06-22.45.02:604][872]LogModuleManager: Shutting down and abandoning module DesktopPlatform (60)
+[2023.10.06-22.45.02:604][872]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (58)
+[2023.10.06-22.45.02:605][872]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (56)
+[2023.10.06-22.45.02:606][872]LogModuleManager: Shutting down and abandoning module SourceControl (55)
+[2023.10.06-22.45.02:606][872]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (52)
+[2023.10.06-22.45.02:607][872]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (50)
+[2023.10.06-22.45.02:607][872]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (48)
+[2023.10.06-22.45.02:607][872]LogModuleManager: Shutting down and abandoning module PlatformCrypto (46)
+[2023.10.06-22.45.02:607][872]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2023.10.06-22.45.02:608][872]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2023.10.06-22.45.02:608][872]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2023.10.06-22.45.02:608][872]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2023.10.06-22.45.02:612][872]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.10.06-22.45.02:613][872]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2023.10.06-22.45.02:613][872]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2023.10.06-22.45.02:613][872]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.10.06-22.45.02:613][872]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.10.06-22.45.02:613][872]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.10.06-22.45.02:613][872]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.10.06-22.45.02:627][872]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.10.06-22.45.02:628][872]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.10.06-22.45.02:647][872]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.10.06-22.45.02:647][872]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.10.06-22.45.02:647][872]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.10.06-22.45.02:647][872]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.10.06-22.45.02:648][872]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.10.06-22.45.02:648][872]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.10.06-22.45.02:648][872]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.10.06-22.45.02:648][872]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.10.06-22.45.02:649][872]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.10.06-22.45.03:196][872]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.10.06-22.45.03:228][872]LogExit: Exiting.
+[2023.10.06-22.45.03:304][872]Log file closed, 10/06/23 18:45:03
