@@ -2521,3 +2521,21 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.19-21.20.07:419][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 274 ms)
 [2023.10.19-21.20.07:425][538]AssetCheck: New page: Asset Save: BPGM_Volcanewt
 [2023.10.19-21.20.07:425][538]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BPGM_Volcanewt.BPGM_Volcanewt
+[2023.10.19-21.20.45:237][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.10.19-21.20.45:241][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-21.20.45:386][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.10.19-21.20.45:732][608]LogSavePackage: Moving output files for package: /Game/Levels/SplineTestingWorld
+[2023.10.19-21.20.45:733][608]LogSavePackage: Moving '../../../../../Users/na420231/Documents/GitHub/Volcanewt/VolcanewtProject/Saved/SplineTestingWorld0FD2E2084B5DBEDB4B86AF97F8279F9A.tmp' to '../../../../../Users/na420231/Documents/GitHub/Volcanewt/VolcanewtProject/Content/Levels/SplineTestingWorld.umap'
+[2023.10.19-21.20.45:743][608]LogFileHelpers: Saving map 'SplineTestingWorld' took 0.382
+[2023.10.19-21.20.45:754][608]LogSavePackage: Moving output files for package: /Game/ProceduralGen/Procedural_RoadTest
+[2023.10.19-21.20.45:755][608]LogSavePackage: Moving '../../../../../Users/na420231/Documents/GitHub/Volcanewt/VolcanewtProject/Saved/Procedural_RoadTest64927A2342ED27B0F28681A28B2FD19D.tmp' to '../../../../../Users/na420231/Documents/GitHub/Volcanewt/VolcanewtProject/Content/ProceduralGen/Procedural_RoadTest.uasset'
+[2023.10.19-21.20.45:767][608]LogSavePackage: Moving output files for package: /Game/ProceduralGen/PCG_ResidentialPrototype
+[2023.10.19-21.20.45:767][608]LogSavePackage: Moving '../../../../../Users/na420231/Documents/GitHub/Volcanewt/VolcanewtProject/Saved/PCG_ResidentialPrototype4A47F4C04DC589CF4FB3D9984590B594.tmp' to '../../../../../Users/na420231/Documents/GitHub/Volcanewt/VolcanewtProject/Content/ProceduralGen/PCG_ResidentialPrototype.uasset'
+[2023.10.19-21.20.45:779][608]LogSavePackage: Moving output files for package: /Game/ProceduralGen/PCG_SparceResidental
+[2023.10.19-21.20.45:780][608]LogSavePackage: Moving '../../../../../Users/na420231/Documents/GitHub/Volcanewt/VolcanewtProject/Saved/PCG_SparceResidentalEF850779404A3155D0AFC49DE34F5DCA.tmp' to '../../../../../Users/na420231/Documents/GitHub/Volcanewt/VolcanewtProject/Content/ProceduralGen/PCG_SparceResidental.uasset'
+[2023.10.19-21.20.45:789][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 549 ms (total: 823 ms)
+[2023.10.19-21.20.45:800][608]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.19-21.20.45:800][608]LogContentValidation: Display: Validating /Script/PCG.PCGGraph /Game/ProceduralGen/PCG_ResidentialPrototype.PCG_ResidentialPrototype
+[2023.10.19-21.20.45:800][608]LogContentValidation: Display: Validating /Script/PCG.PCGGraph /Game/ProceduralGen/PCG_SparceResidental.PCG_SparceResidental
+[2023.10.19-21.20.45:801][608]LogContentValidation: Display: Validating /Script/PCG.PCGGraph /Game/ProceduralGen/Procedural_RoadTest.Procedural_RoadTest
+[2023.10.19-21.20.45:801][608]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/SplineTestingWorld.SplineTestingWorld
