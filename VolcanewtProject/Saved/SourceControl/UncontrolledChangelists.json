@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHub/Plugins/Volcanewt/VolcanewtProject/Content/Player/Input/IMC_ThirdPerson.uasset",
+				"D:/GitHub/Plugins/Volcanewt/VolcanewtProject/Content/Player/Input/INP_Fireball.uasset",
+				"D:/GitHub/Plugins/Volcanewt/VolcanewtProject/Content/Player/Input/INP_LavaBreath.uasset",
+				"D:/GitHub/Plugins/Volcanewt/VolcanewtProject/Content/Levels/PrototypeTest_Level.umap",
+				"D:/GitHub/Plugins/Volcanewt/VolcanewtProject/Content/Player/BP_Volcanewt.uasset",
 				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/Sounds/UI/Camera_Shutter.uasset",
 				"C:/Users/gshie/OneDrive/Documents/GitHub/Volcanewt/VolcanewtProject/Content/Levels/PrototypeTest_Level.umap",
 				"C:/Users/gshie/OneDrive/Documents/GitHub/Volcanewt/VolcanewtProject/Content/Audio/SoundEffects/shootFree.uasset",
