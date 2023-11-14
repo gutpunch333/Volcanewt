@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/se833307/Documents/GitHub/Volcanewt/VolcanewtProject/Content/Enemies/BP_Rocket.uasset",
+				"C:/Users/se833307/Documents/GitHub/Volcanewt/VolcanewtProject/Content/Levels/Prototype_1-1.umap",
+				"C:/Users/se833307/Documents/GitHub/Volcanewt/VolcanewtProject/Content/Blueprints/BPGM_Volcanewt.uasset",
+				"C:/Users/se833307/Documents/GitHub/Volcanewt/VolcanewtProject/Content/ProceduralGen/Procedural_RoadTest.uasset",
+				"C:/Users/se833307/Documents/GitHub/Volcanewt/VolcanewtProject/Content/ProceduralGen/PCG_SparceResidental.uasset",
+				"C:/Users/se833307/Documents/GitHub/Volcanewt/VolcanewtProject/Content/ProceduralGen/PCG_ResidentialPrototype.uasset",
 				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/VREditor/Sounds/UI/Camera_Shutter.uasset",
 				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
 				"C:/Users/natec/OneDrive/Desktop/School/TheCleaner/FleckProject/Volcanewt/VolcanewtProject/Content/Audio/MixClasses/Mix_Master.uasset",
