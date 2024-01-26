@@ -4590,3 +4590,247 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.26-01.15.45:977][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 427 ms (total: 7.99 sec)
 [2024.01.26-01.15.45:987][758]AssetCheck: New page: Asset Save: Mamba_Metro
 [2024.01.26-01.15.45:987][758]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Mamba_Metro.Mamba_Metro
+[2024.01.26-01.17.35:980][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.01.26-01.17.40:033][478]LogSlate: Window 'Save Content' being destroyed
+[2024.01.26-01.17.40:520][478]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-01.17.41:149][478]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Prototype_1-1.Prototype_1-1
+[2024.01.26-01.17.41:158][478]Cmd: MAP LOAD FILE="E:/Volcanewt/Github/Volcanewt/VolcanewtProject/Content/Levels/Prototype_1-1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.01.26-01.17.41:158][478]LightingResults: New page: Lighting Build
+[2024.01.26-01.17.41:159][478]LoadErrors: New page: Loading map: Prototype_1-1.umap
+[2024.01.26-01.17.41:199][478]LogWorld: UWorld::CleanupWorld for Mamba_Metro, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-01.17.41:199][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-01.17.41:199][478]MapCheck: New page: Map Check
+[2024.01.26-01.17.41:199][478]LightingResults: New page: Lighting Build
+[2024.01.26-01.17.41:250][478]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.26-01.17.41:288][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.01.26-01.17.41:382][478]LogWorld: UWorld::CleanupWorld for Prototype_1-1, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-01.17.41:406][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-01.17.41:788][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.01.26-01.17.41:824][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.01.26-01.17.42:259][478]LogAudio: Display: Audio Device (ID: 1) registered with world 'Prototype_1-1'.
+[2024.01.26-01.17.42:259][478]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-01.17.42:259][478]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-01.17.42:260][478]LogAIModule: Creating AISystem for world Prototype_1-1
+[2024.01.26-01.17.43:027][478]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.26-01.17.43:151][478]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2024.01.26-01.17.43:237][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.01.26-01.17.43:280][478]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.26-01.17.43:281][478]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.21ms to complete.
+[2024.01.26-01.17.43:281][478]LogFileHelpers: Loading map 'Prototype_1-1' took 2.122
+[2024.01.26-01.17.43:292][478]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.004277s (0.143916s overbudget)
+[2024.01.26-01.17.43:381][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_32622fc5fded8ab7_0) is flushing async loading
+[2024.01.26-01.17.43:381][478]LogStreaming: Display: FlushAsyncLoading(-1): 1 QueuedPackages, 0 AsyncPackages
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display: ================================================
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display: Total job queries 1,877, among them cache hits 829 (44.17%)
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display: Tracking 1,044 distinct input hashes that result in 233 distinct outputs (22.32%)
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display: RAM used: 5.59 MiB of 1.60 GiB budget. Usage: 0.34%
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display: Shaders Compiled: 675
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display: Jobs assigned 678, completed 675 (99.56%)
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display: Average time worker was idle: 67.04 s
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display: Time job spent in pending queue: average 0.26 s, longest 4.77 s
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display: Job execution time: average 0.99 s, max 4.75 s
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display: Job life time (pending + execution): average 1.25 s, max 5.50
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 120.04 s
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display: Jobs were issued in 638 batches (only local compilation was used), average 1.06 jobs/batch
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display: Average processing rate: 5.62 jobs/sec
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display: Total thread time: 435.223 s
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display: Total thread preprocess time: 15.811 s
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display: Percentage time preprocessing: 3.63%
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display: Effective parallelization: 3.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   16 times, average 1.08 sec, max 1.43 sec, min 0.80 sec)
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   16 times, average 1.08 sec, max 1.40 sec, min 0.94 sec)
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   15 times, average 1.05 sec, max 1.20 sec, min 0.78 sec)
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   16 times, average 1.04 sec, max 1.38 sec, min 0.80 sec)
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   16 times, average 1.00 sec, max 1.15 sec, min 0.81 sec)
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.54% of total time (compiled  142 times, average 0.69 sec, max 1.29 sec, min 0.45 sec)
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.70% of total time (compiled  132 times, average 0.65 sec, max 0.98 sec, min 0.47 sec)
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.02% of total time (compiled   81 times, average 0.48 sec, max 0.71 sec, min 0.40 sec)
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.89% of total time (compiled   32 times, average 0.66 sec, max 1.12 sec, min 0.47 sec)
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.64% of total time (compiled   81 times, average 0.25 sec, max 0.36 sec, min 0.19 sec)
+[2024.01.26-01.17.43:461][478]LogShaderCompilers: Display: ================================================
+[2024.01.26-01.17.43:464][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_f39c99ade0412e93_0) is flushing async loading
+[2024.01.26-01.17.43:477][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_7f9fe545e838c6a2_0) is flushing async loading
+[2024.01.26-01.17.43:491][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_eb59162f5f59ce01_0) is flushing async loading
+[2024.01.26-01.17.43:503][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_ee997cae6d32bd93_0) is flushing async loading
+[2024.01.26-01.17.43:517][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_8d58d4dd69dfa3ed_0) is flushing async loading
+[2024.01.26-01.17.43:531][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_3ee4c1268534cb8c_0) is flushing async loading
+[2024.01.26-01.17.43:545][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_5e25aaa3f5b1485f_0) is flushing async loading
+[2024.01.26-01.17.43:560][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_36db2ebde4357ffb_0) is flushing async loading
+[2024.01.26-01.17.43:574][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_094e0fb3c8091e77_0) is flushing async loading
+[2024.01.26-01.17.43:586][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_35941802493d98b0_0) is flushing async loading
+[2024.01.26-01.17.43:601][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_a8525fc58ccf38ba_0) is flushing async loading
+[2024.01.26-01.17.43:614][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_5e6000649eeeb5f9_0) is flushing async loading
+[2024.01.26-01.17.43:627][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_7e484851650e7ce2_0) is flushing async loading
+[2024.01.26-01.17.43:643][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_691080980ea12c24_0) is flushing async loading
+[2024.01.26-01.17.43:661][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_56fb5bdf9e1643c1_0) is flushing async loading
+[2024.01.26-01.17.43:678][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_4c5c0924202789a1_0) is flushing async loading
+[2024.01.26-01.17.43:700][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_f3a865df21ca1725_0) is flushing async loading
+[2024.01.26-01.17.43:728][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_a83a1cb997fae973_0) is flushing async loading
+[2024.01.26-01.17.43:755][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_862293589eefb766_0) is flushing async loading
+[2024.01.26-01.17.43:785][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_c2fd8807f6000690_0) is flushing async loading
+[2024.01.26-01.17.43:813][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_808f8ff38f1b1155_0) is flushing async loading
+[2024.01.26-01.17.43:841][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_c609fa7f6ab05687_0) is flushing async loading
+[2024.01.26-01.17.43:868][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_75d9483afce67046_0) is flushing async loading
+[2024.01.26-01.17.43:888][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_6b24604eaf13ff8b_0) is flushing async loading
+[2024.01.26-01.17.43:907][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_9fe06f905f72faaa_0) is flushing async loading
+[2024.01.26-01.17.43:926][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_7a5c3c500ec373e4_0) is flushing async loading
+[2024.01.26-01.17.43:945][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_8ba810dae5e966a7_0) is flushing async loading
+[2024.01.26-01.17.43:963][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_1df872714ab0732e_0) is flushing async loading
+[2024.01.26-01.17.43:979][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_eae7fc3d6f24d939_0) is flushing async loading
+[2024.01.26-01.17.43:998][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_27965c8fdb87a408_0) is flushing async loading
+[2024.01.26-01.17.44:017][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_1b774318f8a7802e_0) is flushing async loading
+[2024.01.26-01.17.44:037][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_ea801f51c1aa1223_0) is flushing async loading
+[2024.01.26-01.17.44:055][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_d1d9d3340547ee73_0) is flushing async loading
+[2024.01.26-01.17.44:071][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_c20bc823aad00414_0) is flushing async loading
+[2024.01.26-01.17.44:087][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_a8f52831cf18d900_0) is flushing async loading
+[2024.01.26-01.17.44:105][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_0a53c838914152e2_0) is flushing async loading
+[2024.01.26-01.17.44:122][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_1e6222e33ed5f7b4_0) is flushing async loading
+[2024.01.26-01.17.44:142][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_be310c7afc450137_0) is flushing async loading
+[2024.01.26-01.17.44:161][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_fc35ceed9d4a061e_0) is flushing async loading
+[2024.01.26-01.17.44:176][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_9c5d01a719b84e8e_0) is flushing async loading
+[2024.01.26-01.17.44:200][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_b0f6544aea183416_0) is flushing async loading
+[2024.01.26-01.17.44:214][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_8c35ed82e214f4d3_0) is flushing async loading
+[2024.01.26-01.17.44:227][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_c3fb44be52e25f3b_0) is flushing async loading
+[2024.01.26-01.17.44:240][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_cd3ae6d9baa9f107_0) is flushing async loading
+[2024.01.26-01.17.44:256][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_768f253c13c7e150_0) is flushing async loading
+[2024.01.26-01.17.44:269][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_cde5c09b8b1efdad_0) is flushing async loading
+[2024.01.26-01.17.44:283][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_bd361cb05b2d957d_0) is flushing async loading
+[2024.01.26-01.17.44:295][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_a0d5ddd05dc4271d_0) is flushing async loading
+[2024.01.26-01.17.44:309][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_09f7fbde844e0113_0) is flushing async loading
+[2024.01.26-01.17.44:321][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_a146cc6010b09bac_0) is flushing async loading
+[2024.01.26-01.17.44:333][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_b59b8a5d783dddee_0) is flushing async loading
+[2024.01.26-01.17.44:346][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_cc82f1c8b7241cfb_0) is flushing async loading
+[2024.01.26-01.17.44:359][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_1e76217896a375e3_0) is flushing async loading
+[2024.01.26-01.17.44:372][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_a8564fa9a08b68f6_0) is flushing async loading
+[2024.01.26-01.17.44:441][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_499f5a1c25349c31_0) is flushing async loading
+[2024.01.26-01.17.44:454][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_4c6a97502f32047f_0) is flushing async loading
+[2024.01.26-01.17.44:467][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetStraight_LevelInstance_ae3771dee19dbf63_0) is flushing async loading
+[2024.01.26-01.17.44:480][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetIntersection_LevelInstance_905ac11513b4765e_0) is flushing async loading
+[2024.01.26-01.17.44:493][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetIntersection_LevelInstance_7a6d6ad62cee496d_0) is flushing async loading
+[2024.01.26-01.17.44:506][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetIntersection_LevelInstance_ae6d4cb797770895_0) is flushing async loading
+[2024.01.26-01.17.44:519][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetIntersection_LevelInstance_6cbae927b88fce08_0) is flushing async loading
+[2024.01.26-01.17.44:532][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetIntersection_LevelInstance_e457319cebc87373_0) is flushing async loading
+[2024.01.26-01.17.44:544][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetIntersection_LevelInstance_751c5000dcfda4a0_0) is flushing async loading
+[2024.01.26-01.17.44:557][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetIntersection_LevelInstance_91200b6b4ce16450_0) is flushing async loading
+[2024.01.26-01.17.44:570][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetIntersection_LevelInstance_b81dabeebe6ff8a2_0) is flushing async loading
+[2024.01.26-01.17.44:583][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetIntersection_LevelInstance_01b4fc148982821c_0) is flushing async loading
+[2024.01.26-01.17.44:596][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetFourway_LevelInstance_2658ab70b9039319_0) is flushing async loading
+[2024.01.26-01.17.44:605][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetFourway_LevelInstance_48f3ed42c2fd42d3_0) is flushing async loading
+[2024.01.26-01.17.44:616][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetIntersection_LevelInstance_3764f61cd943df4b_0) is flushing async loading
+[2024.01.26-01.17.44:630][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_StreetIntersection_LevelInstance_fb0f23f16b369207_0) is flushing async loading
+[2024.01.26-01.17.44:650][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTileDouble_LevelInstance_72dba788a9236189_0) is flushing async loading
+[2024.01.26-01.17.44:697][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTileDouble_LevelInstance_e8a1f2579d0b76f0_0) is flushing async loading
+[2024.01.26-01.17.44:739][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTileDouble_LevelInstance_850a16d76d94e769_0) is flushing async loading
+[2024.01.26-01.17.44:782][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTileDouble_LevelInstance_8f4c8abbc830bd50_0) is flushing async loading
+[2024.01.26-01.17.44:824][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTileDouble_LevelInstance_260ca39d32fdf10b_0) is flushing async loading
+[2024.01.26-01.17.44:873][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTileDouble_LevelInstance_8f3643d90c2a268c_0) is flushing async loading
+[2024.01.26-01.17.44:916][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTile_LevelInstance_2fe0fd4aa589b6c8_0) is flushing async loading
+[2024.01.26-01.17.44:956][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTile_LevelInstance_d96bd0959492e415_0) is flushing async loading
+[2024.01.26-01.17.44:997][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTile_LevelInstance_aed1929c99bb26f4_0) is flushing async loading
+[2024.01.26-01.17.45:034][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTile_LevelInstance_2722ca50a75ce8bf_0) is flushing async loading
+[2024.01.26-01.17.45:072][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTile_LevelInstance_81201ff398d451b0_0) is flushing async loading
+[2024.01.26-01.17.45:108][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTile_LevelInstance_994948d3c51e1682_0) is flushing async loading
+[2024.01.26-01.17.45:152][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTile_LevelInstance_84af35aa732368af_0) is flushing async loading
+[2024.01.26-01.17.45:192][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTile_LevelInstance_f20769a876364e01_0) is flushing async loading
+[2024.01.26-01.17.45:231][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTile_LevelInstance_c125466c9259661a_0) is flushing async loading
+[2024.01.26-01.17.45:273][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTile_LevelInstance_e6c385e0a1dad317_0) is flushing async loading
+[2024.01.26-01.17.45:312][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTile_LevelInstance_d06d2588515fd25e_0) is flushing async loading
+[2024.01.26-01.17.45:351][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTile_LevelInstance_904a3fb3943acc3b_0) is flushing async loading
+[2024.01.26-01.17.45:393][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTile_LevelInstance_ccb86bc48917535b_0) is flushing async loading
+[2024.01.26-01.17.45:440][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTile_LevelInstance_4ee4ed55ebd6f86c_0) is flushing async loading
+[2024.01.26-01.17.45:491][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTile_LevelInstance_d61c7d67016db000_0) is flushing async loading
+[2024.01.26-01.17.45:532][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_FuelDepot_LevelInstance_a44d77f7764b2204_0) is flushing async loading
+[2024.01.26-01.17.45:560][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_FuelDepot_LevelInstance_ea09d6e191240799_0) is flushing async loading
+[2024.01.26-01.17.45:586][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_FuelDepot_LevelInstance_7afbd6610cb4b216_0) is flushing async loading
+[2024.01.26-01.17.45:612][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_FuelDepot_LevelInstance_7893123b18cb4446_0) is flushing async loading
+[2024.01.26-01.17.45:639][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_FuelDepot_LevelInstance_29b6de9d01f6ed1d_0) is flushing async loading
+[2024.01.26-01.17.45:673][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_FuelDepot_LevelInstance_5ee02c8baf140ec3_0) is flushing async loading
+[2024.01.26-01.17.45:704][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityCorner_LevelInstance_bffc7cfa78deef69_0) is flushing async loading
+[2024.01.26-01.17.45:736][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityCorner_LevelInstance_b8731c0e8f46a517_0) is flushing async loading
+[2024.01.26-01.17.45:766][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityCorner_LevelInstance_f60e4c78445a2f92_0) is flushing async loading
+[2024.01.26-01.17.45:794][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityCorner_LevelInstance_cf5998655e69b6c4_0) is flushing async loading
+[2024.01.26-01.17.45:822][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityCorner_LevelInstance_c0c4ce0240f425ae_0) is flushing async loading
+[2024.01.26-01.17.45:852][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityCorner_LevelInstance_0666517c9c5e9e73_0) is flushing async loading
+[2024.01.26-01.17.45:885][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityCorner_LevelInstance_66f8a035f4fb3f84_0) is flushing async loading
+[2024.01.26-01.17.45:914][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CItyCornerOuter_LevelInstance_7763b3d477d1d548_0) is flushing async loading
+[2024.01.26-01.17.45:939][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityCornerOuter1_LevelInstance_f5ecab89e92cab80_0) is flushing async loading
+[2024.01.26-01.17.45:984][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTileDouble_LevelInstance_9d681d3f7c7fdb92_0) is flushing async loading
+[2024.01.26-01.17.46:035][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityCornerOuter1_LevelInstance_5f925a663fed187b_0) is flushing async loading
+[2024.01.26-01.17.46:084][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityCornerOuter1_LevelInstance_e2b636e585390bb9_0) is flushing async loading
+[2024.01.26-01.17.46:129][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_FuelDepot_LevelInstance_122de08e861861b2_0) is flushing async loading
+[2024.01.26-01.17.46:156][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_TouristShop_LevelInstance_ccbbfd52f39e724f_0) is flushing async loading
+[2024.01.26-01.17.46:171][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_TouristShop_LevelInstance_5cd8a5463ef12411_0) is flushing async loading
+[2024.01.26-01.17.46:185][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_TouristShop_LevelInstance_31175f042b8dd10b_0) is flushing async loading
+[2024.01.26-01.17.46:198][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_TouristShop_LevelInstance_0dfaa5e4db4dcbf9_0) is flushing async loading
+[2024.01.26-01.17.46:215][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_TouristShop2_LevelInstance_10444364a12f926a_0) is flushing async loading
+[2024.01.26-01.17.46:267][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_TouristShop2_LevelInstance_85470be53b5fb469_0) is flushing async loading
+[2024.01.26-01.17.46:325][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_TouristShop2_LevelInstance_ff462f14452fcb0b_0) is flushing async loading
+[2024.01.26-01.17.46:377][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_TouristShop2_LevelInstance_190b47597ae7a33f_0) is flushing async loading
+[2024.01.26-01.17.46:429][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_TouristShop2_LevelInstance_d5233695f7c66e46_0) is flushing async loading
+[2024.01.26-01.17.46:486][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_Resort_LevelInstance_8eb5ee950b92a8ce_0) is flushing async loading
+[2024.01.26-01.17.46:616][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTileHalf_LevelInstance_ec5b76aa6e0ef28d_0) is flushing async loading
+[2024.01.26-01.17.46:632][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTileHalf_LevelInstance_7746fc9c188c5b16_0) is flushing async loading
+[2024.01.26-01.17.46:646][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTileHalf_LevelInstance_d4b23b3fdae19779_0) is flushing async loading
+[2024.01.26-01.17.46:661][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTileHalf_LevelInstance_45e6e9d9e99d746d_0) is flushing async loading
+[2024.01.26-01.17.46:675][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTileHalf_LevelInstance_facadf1632ac1eef_0) is flushing async loading
+[2024.01.26-01.17.46:695][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTileHalf_LevelInstance_f51704ddff7d14e8_0) is flushing async loading
+[2024.01.26-01.17.46:709][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTileHalf_LevelInstance_2d17d60dd8006b02_0) is flushing async loading
+[2024.01.26-01.17.46:724][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTileHalf_LevelInstance_40e586b70e357724_0) is flushing async loading
+[2024.01.26-01.17.46:737][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTileHalf_LevelInstance_7b5e5d0b5f093c53_0) is flushing async loading
+[2024.01.26-01.17.46:750][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTileHalf_LevelInstance_431b6567be32b548_0) is flushing async loading
+[2024.01.26-01.17.46:765][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_TouristCondo_LevelInstance_e46b82ebcaa8b645_0) is flushing async loading
+[2024.01.26-01.17.46:797][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_TouristCondo_LevelInstance_6460d435bffc6573_0) is flushing async loading
+[2024.01.26-01.17.46:832][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_TouristCondo_LevelInstance_d66033fd8e74fdaa_0) is flushing async loading
+[2024.01.26-01.17.46:863][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_TouristCondo_LevelInstance_b9da6fae442077b0_0) is flushing async loading
+[2024.01.26-01.17.46:896][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_TouristCondo_LevelInstance_942d90b3e9d8d2f9_0) is flushing async loading
+[2024.01.26-01.17.46:926][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_GovernmentBuilding_LevelInstance_ce28a8a1314eb2c6_0) is flushing async loading
+[2024.01.26-01.17.46:968][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_GovernmentBuilding_LevelInstance_6f663a8121f9a207_0) is flushing async loading
+[2024.01.26-01.17.47:009][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_GovernmentBuilding_LevelInstance_0094b8b44b3e6cd0_0) is flushing async loading
+[2024.01.26-01.17.47:051][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_GovernmentBuilding_LevelInstance_4863ae89990280f0_0) is flushing async loading
+[2024.01.26-01.17.47:091][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_GovernmentBuilding_LevelInstance_e656788161098924_0) is flushing async loading
+[2024.01.26-01.17.47:136][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_GovernmentBuilding_LevelInstance_c61561b524a13317_0) is flushing async loading
+[2024.01.26-01.17.47:176][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTileHalf_LevelInstance_6002eb4029da19ee_0) is flushing async loading
+[2024.01.26-01.17.47:192][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_WaterTower_LevelInstance_0beba5d2177a3038_0) is flushing async loading
+[2024.01.26-01.17.47:214][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_WaterTower_LevelInstance_c7eccac4a344f557_0) is flushing async loading
+[2024.01.26-01.17.47:236][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_WaterTower_LevelInstance_2f23b235880dcb06_0) is flushing async loading
+[2024.01.26-01.17.47:258][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_WaterTower_LevelInstance_ef7ec9faedcfb64f_0) is flushing async loading
+[2024.01.26-01.17.47:280][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_WaterTower_LevelInstance_3f919d2a87f216c0_0) is flushing async loading
+[2024.01.26-01.17.47:306][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_BigFlag_LevelInstance_df9447133c9761e4_0) is flushing async loading
+[2024.01.26-01.17.47:315][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_BigFlag_LevelInstance_c2e8ea3426fb4d22_0) is flushing async loading
+[2024.01.26-01.17.47:323][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_BigFlag_LevelInstance_225c84a6c44986fc_0) is flushing async loading
+[2024.01.26-01.17.47:332][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityCorner_LevelInstance_f796933cf648e9e9_0) is flushing async loading
+[2024.01.26-01.17.47:364][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityCorner_LevelInstance_0f408b308f458f83_0) is flushing async loading
+[2024.01.26-01.17.47:394][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CItyCornerOuter_LevelInstance_a232d6d2057460f0_0) is flushing async loading
+[2024.01.26-01.17.47:418][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CItyCornerOuter_LevelInstance_69d44b805cbba10c_0) is flushing async loading
+[2024.01.26-01.17.47:442][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTileHalf_LevelInstance_6431fbb76778c46d_0) is flushing async loading
+[2024.01.26-01.17.47:457][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTile_LevelInstance_bfeb810b4b284cbe_0) is flushing async loading
+[2024.01.26-01.17.47:496][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_GovernmentOffice2_LevelInstance_07d146545f2ee802_0) is flushing async loading
+[2024.01.26-01.17.47:531][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_GovernmentOffice2_LevelInstance_5f77c533cd786086_0) is flushing async loading
+[2024.01.26-01.17.47:559][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_GovernmentOffice2_LevelInstance_044c8903fe93f77b_0) is flushing async loading
+[2024.01.26-01.17.47:585][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_GovernmentOffice2_LevelInstance_14c2c91c6cab8b83_0) is flushing async loading
+[2024.01.26-01.17.47:613][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_GovernmentOffice2_LevelInstance_f99e260666516e1d_0) is flushing async loading
+[2024.01.26-01.17.47:641][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_GovernmentOffice2_LevelInstance_a5cc2c5017f19fc4_0) is flushing async loading
+[2024.01.26-01.17.47:668][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_CityTile_LevelInstance_149465eca123df80_0) is flushing async loading
+[2024.01.26-01.17.47:711][478]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/DistrictTiles/LevelInstanceDTS/DT_FerrisWheel_LevelInstance_e29c7576737a945a_0) is flushing async loading
+[2024.01.26-01.17.47:792][478]LogLevelInstance: Loaded 165 levels in 4.413 seconds
+[2024.01.26-01.18.52:994][ 55]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/3D_Art/Models/Environment/Buildings/StreetsV2/StreetStraight_V2.StreetStraight_V2
+[2024.01.26-01.18.53:034][ 55]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.26-01.18.53:034][ 55]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.26-01.18.53:286][ 55]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.01.26-01.19.05:504][612]LogSlate: Window 'StreetStraight_V2' being destroyed
+[2024.01.26-01.19.05:510][612]LogSlate: Window 'StreetStraight_V2' being destroyed
+[2024.01.26-01.19.05:536][612]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.01.26-01.19.05:536][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.26-01.19.06:271][645]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.26-01.19.06:496][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Prototype_1-1" FILE="E:/Volcanewt/Github/Volcanewt/VolcanewtProject/Content/Levels/Prototype_1-1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.26-01.19.06:550][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.01.26-01.19.07:492][645]LogSavePackage: Moving output files for package: /Game/Levels/Prototype_1-1
+[2024.01.26-01.19.07:492][645]LogSavePackage: Moving 'E:/Volcanewt/Github/Volcanewt/VolcanewtProject/Saved/Prototype_1-1A399F13A49ACA4B35618DCA270DA8861.tmp' to 'E:/Volcanewt/Github/Volcanewt/VolcanewtProject/Content/Levels/Prototype_1-1.umap'
+[2024.01.26-01.19.07:536][645]LogFileHelpers: Saving map 'Prototype_1-1' took 1.045
+[2024.01.26-01.19.07:540][645]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.26 sec (total: 9.26 sec)
+[2024.01.26-01.19.07:557][645]AssetCheck: New page: Asset Save: Prototype_1-1
+[2024.01.26-01.19.07:557][645]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Prototype_1-1.Prototype_1-1
